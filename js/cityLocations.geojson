@@ -1,0 +1,365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "berlin",
+        "year": "2014",
+        "type": "fellowship",
+        "story": "summit",
+        "marker-size": "large",
+        "marker-color": "#e87d2b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.388214111328125,
+          52.52374150329884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "hamburg",
+        "year": "2014",
+        "type": "fellowship",
+        "story": "summit",
+        "marker-size": "large",
+        "marker-color": "#e87d2b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.992408752441404,
+          53.5492834074879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "muenster",
+        "year": "2014",
+        "type": "fellowship",
+        "story": "summit",
+        "marker-size": "large",
+        "marker-color": "#e87d2b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.625198364257812,
+          51.96256745565992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "paderborn",
+        "year": "2014",
+        "type": "fellowship",
+        "story": "summit",
+        "marker-size": "large",
+        "marker-color": "#e87d2b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.754472732543945,
+          51.71852107186864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "leipzig",
+        "year": "2014",
+        "type": "fellowship",
+        "story": "summit",
+        "marker-size": "large",
+        "marker-color": "#e87d2b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37661361694336,
+          51.34058558608988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "dresden",
+        "year": "2014",
+        "type": "fellowship",
+        "story": "summit",
+        "marker-size": "large",
+        "marker-color": "#e87d2b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.738231658935547,
+          51.051538545266844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "chemnitz",
+        "year": "2014",
+        "type": "fellowship",
+        "story": "summit",
+        "marker-size": "large",
+        "marker-color": "#e87d2b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.918548583984375,
+          50.83358925409168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "koeln",
+        "year": "2014",
+        "type": "fellowship",
+        "story": "summit",
+        "marker-size": "large",
+        "marker-color": "#e87d2b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.958122253417969,
+          50.93852713736125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "giessen",
+        "year": "2014",
+        "type": "fellowship",
+        "story": "summit",
+        "marker-size": "large",
+        "marker-color": "#e87d2b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.674135208129883,
+          50.58710586776166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "heilbronn",
+        "year": "2014",
+        "type": "fellowship",
+        "story": "summit",
+        "marker-size": "large",
+        "marker-color": "#e87d2b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.219417572021484,
+          49.14325702849306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "stuttgart",
+        "year": "2014",
+        "type": "fellowship",
+        "story": "summit",
+        "marker-size": "large",
+        "marker-color": "#e87d2b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.176673889160156,
+          48.77723402298078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "ulm",
+        "year": "2014",
+        "type": "fellowship",
+        "story": "summit",
+        "marker-size": "large",
+        "marker-color": "#e87d2b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.993181228637695,
+          48.396442301349204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "muenchen",
+        "year": "2014",
+        "type": "fellowship",
+        "story": "summit",
+        "marker-size": "large",
+        "marker-color": "#e87d2b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.574954986572266,
+          48.13871414648389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "magdeburg",
+        "year": "2015",
+        "type": "fellowship",
+        "story": "summit",
+        "marker-size": "large",
+        "marker-color": "#e87d2b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.63846969604492,
+          52.13527929229162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "jena",
+        "year": "2015",
+        "type": "fellowship",
+        "story": "summit",
+        "marker-size": "large",
+        "marker-color": "#e87d2b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.583366394042969,
+          50.93225267576595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "frankfurt",
+        "year": "2015",
+        "type": "fellowship",
+        "story": "summit",
+        "marker-size": "large",
+        "marker-color": "#e87d2b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.681602478027344,
+          50.114303992023764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "wuppertal",
+        "year": "2015",
+        "type": "fellowship",
+        "story": "summit",
+        "marker-size": "large",
+        "marker-color": "#e87d2b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.177076339721681,
+          51.2628279058797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "karlsruhe",
+        "year": "2015",
+        "type": "fellowship",
+        "story": "summit",
+        "marker-size": "large",
+        "marker-color": "#e87d2b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.40428352355957,
+          49.01254127244647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "freiburg",
+        "year": "2015",
+        "type": "fellowship",
+        "story": "summit",
+        "marker-size": "large",
+        "marker-color": "#e87d2b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.851705551147461,
+          47.99480410499141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "ruhr",
+        "year": "2015",
+        "type": "fellowship",
+        "story": "summit",
+        "marker-size": "large",
+        "marker-color": "#e87d2b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.217674255371093,
+          51.4811690848672
+        ]
+      }
+    }
+  ]
+}

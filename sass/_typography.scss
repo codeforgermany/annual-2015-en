@@ -1,0 +1,94 @@
+/*****************************************************************************/
+/*
+/* Specific typography changes for sections
+/*
+/*****************************************************************************/
+
+
+
+.attribution{
+  bottom: 0;
+  padding: 20px 20px 0px 0px;
+  position: absolute; 
+  right: 0;
+
+  p {
+  color: #fff;
+  border: none;
+  display: inline;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 9px;
+  font-weight: 300;
+  line-height: 20px;
+  margin-bottom: 0px;
+  padding: 0px;
+  text-align: right;
+  }
+
+  img {
+  padding-bottom: 30px;
+  border: none;
+  }
+
+   a {
+   &:hover {
+      border: none;
+      color: #fff;
+      text-decoration: none;
+   }
+   &:active {
+      color: #fff;
+      text-decoration: none;
+   }
+ }
+}
+
+.attribution.credits {
+
+}
+
+
+
+$black: #333;
+
+.text-black {
+  color: $black;
+  text-shadow: none;
+
+  a {
+    
+    color: $black;
+
+    &:hover, &:active {
+      color: $black;
+      // border-bottom: 1px solid $black;
+    }
+    
+  }
+
+  blockquote {
+    border-left: 5px solid $black;
+  }
+
+  .stats2015 {
+    border-left: 2px solid $black;
+  }
+
+  .line {
+    border: 1px solid $black;
+  }
+
+}
+
+.page.quote .text-black h1, .page.story .text-black h1  {
+  color: $black;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.carousel-control {
+  line-height: 26px;
+  font-size: 60px;
+}

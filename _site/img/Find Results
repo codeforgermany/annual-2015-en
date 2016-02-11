@@ -1,0 +1,2846 @@
+Searching 202 files for "logo"
+
+/Users/julia/Documents/Code/Report/index.html:
+    5  
+    6  <div id="loading">
+    7:   <img src="img/CfA_logo_white.png" />
+    8    <h1>2013</h1> 
+    9    <p>Annual Report</p>
+   ..
+   13    <div class="navbar-inner">
+   14      <div class="container">
+   15:       <a class="brand" href="#"><img class="cfalogo" src="img/cfa_logo.png" alt="Code for America logo" /></a>
+   16        <!-- Everything you want hidden at 940px or less, place within here -->
+   17        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+
+/Users/julia/Documents/Code/Report/_posts/2013-01-11-thanks.html:
+   11  </div>
+   12  <div class="attribution">
+   13: 	<p>Original design <a href="http://2012.codeforamerica.org" target="_blank">created in 2012</a> by: Angel Kittyachavalit, Mick Thompson&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;This report created with help from: &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.postcode.io" target="_blank"><img src="img/postcode_logo.png"></a></p>
+   14  </div>
+   15  
+
+/Users/julia/Documents/Code/Report/_posts/2013-01-19-code-for-all.html:
+    7  section: people
+    8  image: imagecodeforallback
+    9: icon: codeforall_logo
+   10  ---
+   11  
+
+/Users/julia/Documents/Code/Report/_posts/2013-01-20-peer.html:
+    7  section: people
+    8  image: imagepeerback
+    9: icon: peer_logo
+   10  ---
+   11  
+
+/Users/julia/Documents/Code/Report/_posts/2013-01-21-market.html:
+    2  layout: fullpage
+    3  title: Startups
+    4: icon: startup_logo
+    5  bgcolor: 399fd3
+    6  pagetype: story
+
+/Users/julia/Documents/Code/Report/_posts/2013-01-22-brigade.html:
+    8  section: people
+    9  image: imagebrigadeback
+   10: icon: brigade_logo
+   11  ---
+   12  <div class="community themes">
+
+/Users/julia/Documents/Code/Report/_posts/2013-01-23-fellowship.html:
+    8  section: people
+    9  image: imagefellowsback
+   10: icon: fellowship_logo
+   11  ---
+   12  
+
+/Users/julia/Documents/Code/Report/_posts/2013-01-31-applications.html:
+   43        <a class="appspop streetmix" rel="popover" data-toggle="popover" data-content="Lets anyone, anywhere design, remix, and share their street.<br /> <em>Fellowship</em>" data-original-title="Streetmix" href="http://streetmix.net/" target="_blank"></a>
+   44        <a class="appspop jailpop" rel="popover" data-toggle="popover" data-content="Visualizes Louisville metro jail data to aid judges in decision-making.<br /> <em>Fellowship</em>" data-original-title="Jail Population Management Dashboard / Louisville" href="http://www.codeforamerica.org/cities/louisville/" target="_blank"></a>
+   45:       <a class="appspop cityvoice_logo" rel="popover" data-toggle="popover" data-content="Gives residents a say about vacant and abandoned properties.<br /> <em>Fellowship</em>" data-original-title="City Voice / South Bend" href="http://www.cityvoiceapp.com/" target="_blank"></a>
+   46:       <a class="appspop bizfriendly_logo" rel="popover" data-toggle="popover" data-content="Teaches modern web tools to business owners.<br /> <em>Fellowship</em>" data-original-title="BizFriendly / Kansas City" href="http://bizfriend.ly/" target="_blank"></a>
+   47        <a class="appspop clickthathood" rel="popover" data-toggle="popover" data-content="An educational geography game being played in 86 cities in 11 countries.<br /> <em>Fellowship</em>" data-original-title="Click That 'Hood" href="http://click-that-hood.com/" target="_blank"></a>
+   48        <a class="appspop nycccs" rel="popover" data-toggle="popover" data-content="Helps judges better direct defendants to alternative incarceration programs.<br /> <em>Fellowship</em>" data-original-title="Criminal Case Search / New York" href="http://codeforamerica.org/cities/newyork/" target="_blank"></a>
+   49        <a class="appspop development_fast_pass" rel="popover" data-toggle="popover" data-content="Educates business owners on zoning and land use information.<br /> <em>Fellowship</em>" data-original-title="Development Fast Pass / Las Vegas" href="http://lv-dof-staging.herokuapp.com/#/" target="_blank"></a>
+   50:       <a class="appspop tothetrails_logo" rel="popover" data-toggle="popover" data-content="Helps hikers navigate the trails and terrain.<br /> <em>Fellowship</em>" data-original-title="To the Trails / Summit County" href="http://www.tothetrails.com/" target="_blank"></a>
+   51        <a class="appspop oppcaster" rel="popover" data-toggle="popover" data-content="Informs interested businesses about contracting opportunities.<br /> <em>Fellowship</em>" data-original-title="OppCaster / South Bend" href="http://www.oppcaster.com/" target="_blank"></a>
+   52        <a class="appspop foodtruckslv" rel="popover" data-toggle="popover" data-content="Provides real-time food truck information. The first app of its kind.<br /> <em>Fellowship</em>" data-original-title="Food Truck App / Las Vegas" href="http://www.lasvegasnevada.gov/foodtruck/" target="_blank"></a>
+   ..
+   94        <a class="appspop textmybus" rel="popover" data-toggle="popover" data-content="The 2012 Detroit Fellows built TextMyBus, which has scaled to thousands of users across the city who use it on a daily basis to check the arrival times of their buses.  <br /> <em>Fellowship</em>" data-original-title="TextMyBus" href="http://textmybus.com/" target="_blank"></a>
+   95        <a class="appspop textizen" rel="popover" data-toggle="popover" data-content="First built during the 2012 Fellowship, Textizen is now a civic startup with a product live in nine communities.<br /> <em>Fellowship, Incubator</em>" data-original-title="Textizen" href="http://textizen.com/" target="_blank"></a>
+   96:       <a class="appspop localdatalogo" rel="popover" data-toggle="popover" data-content="First built during the 2012 Fellowship, LocalData makes it easy for communities to collect neighborhood data to improve decisionmaking.<br /> <em>Fellowship, Incubator</em>" data-original-title="LocalData" href="http://localdata.com/" target="_blank"></a>
+   97        <a class="appspop civicinsight" rel="popover" data-toggle="popover" data-content="Civic Insight is an update of BlightStatus, built during the 2012 Fellowship. It shares real-time data about properties, like permitting and blight abatement.<br /> <em>Fellowship, Incubator</em>" data-original-title="Civic Insight" href="http://civicinsight.com/" target="_blank"></a>
+   98        <a class="appspop wheresmyschoolbus" rel="popover" data-toggle="popover" data-content="Created by the 2011 Fellows, this app allows parents to track their child’s school bus in real time.<br /> <em>Fellowship</em>" data-original-title="Where's My School Bus?" href="https://schoolbus.bostonpublicschools.org/" target="_blank"></a>
+
+/Users/julia/Documents/Code/Report/_site/index.html:
+   32    <div id="content">
+   33      <div id="loading">
+   34:   <img src="img/CfA_logo_white.png" />
+   35    <h1>2013</h1> 
+   36    <p>Annual Report</p>
+   ..
+   40    <div class="navbar-inner">
+   41      <div class="container">
+   42:       <a class="brand" href="#"><img class="cfalogo" src="img/cfa_logo.png" alt="Code for America logo" /></a>
+   43        <!-- Everything you want hidden at 940px or less, place within here -->
+   44        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+   ..
+  448        <h2>Fellowship <br/>
+  449        
+  450:         <img src="img/fellowship_logo.png"/>
+  451        
+  452        </h2>
+  ...
+  462        <h2>Brigade <br/>
+  463        
+  464:         <img src="img/brigade_logo.png"/>
+  465        
+  466        </h2>
+  ...
+  476        <h2>Startups <br/>
+  477        
+  478:         <img src="img/startup_logo.png"/>
+  479        
+  480        </h2>
+  ...
+  490        <h2>Peer <br>highlights <br/>
+  491        
+  492:         <img src="img/peer_logo.png"/>
+  493        
+  494        </h2>
+  ...
+  504        <h2>Code <br>for All <br/>
+  505        
+  506:         <img src="img/codeforall_logo.png"/>
+  507        
+  508        </h2>
+  ...
+  964        <a class="appspop streetmix" rel="popover" data-toggle="popover" data-content="Lets anyone, anywhere design, remix, and share their street.<br /> <em>Fellowship</em>" data-original-title="Streetmix" href="http://streetmix.net/" target="_blank"></a>
+  965        <a class="appspop jailpop" rel="popover" data-toggle="popover" data-content="Visualizes Louisville metro jail data to aid judges in decision-making.<br /> <em>Fellowship</em>" data-original-title="Jail Population Management Dashboard / Louisville" href="http://www.codeforamerica.org/cities/louisville/" target="_blank"></a>
+  966:       <a class="appspop cityvoice_logo" rel="popover" data-toggle="popover" data-content="Gives residents a say about vacant and abandoned properties.<br /> <em>Fellowship</em>" data-original-title="City Voice / South Bend" href="http://www.cityvoiceapp.com/" target="_blank"></a>
+  967:       <a class="appspop bizfriendly_logo" rel="popover" data-toggle="popover" data-content="Teaches modern web tools to business owners.<br /> <em>Fellowship</em>" data-original-title="BizFriendly / Kansas City" href="http://bizfriend.ly/" target="_blank"></a>
+  968        <a class="appspop clickthathood" rel="popover" data-toggle="popover" data-content="An educational geography game being played in 86 cities in 11 countries.<br /> <em>Fellowship</em>" data-original-title="Click That 'Hood" href="http://click-that-hood.com/" target="_blank"></a>
+  969        <a class="appspop nycccs" rel="popover" data-toggle="popover" data-content="Helps judges better direct defendants to alternative incarceration programs.<br /> <em>Fellowship</em>" data-original-title="Criminal Case Search / New York" href="http://codeforamerica.org/cities/newyork/" target="_blank"></a>
+  970        <a class="appspop development_fast_pass" rel="popover" data-toggle="popover" data-content="Educates business owners on zoning and land use information.<br /> <em>Fellowship</em>" data-original-title="Development Fast Pass / Las Vegas" href="http://lv-dof-staging.herokuapp.com/#/" target="_blank"></a>
+  971:       <a class="appspop tothetrails_logo" rel="popover" data-toggle="popover" data-content="Helps hikers navigate the trails and terrain.<br /> <em>Fellowship</em>" data-original-title="To the Trails / Summit County" href="http://www.tothetrails.com/" target="_blank"></a>
+  972        <a class="appspop oppcaster" rel="popover" data-toggle="popover" data-content="Informs interested businesses about contracting opportunities.<br /> <em>Fellowship</em>" data-original-title="OppCaster / South Bend" href="http://www.oppcaster.com/" target="_blank"></a>
+  973        <a class="appspop foodtruckslv" rel="popover" data-toggle="popover" data-content="Provides real-time food truck information. The first app of its kind.<br /> <em>Fellowship</em>" data-original-title="Food Truck App / Las Vegas" href="http://www.lasvegasnevada.gov/foodtruck/" target="_blank"></a>
+  ...
+ 1015        <a class="appspop textmybus" rel="popover" data-toggle="popover" data-content="The 2012 Detroit Fellows built TextMyBus, which has scaled to thousands of users across the city who use it on a daily basis to check the arrival times of their buses.  <br /> <em>Fellowship</em>" data-original-title="TextMyBus" href="http://textmybus.com/" target="_blank"></a>
+ 1016        <a class="appspop textizen" rel="popover" data-toggle="popover" data-content="First built during the 2012 Fellowship, Textizen is now a civic startup with a product live in nine communities.<br /> <em>Fellowship, Incubator</em>" data-original-title="Textizen" href="http://textizen.com/" target="_blank"></a>
+ 1017:       <a class="appspop localdatalogo" rel="popover" data-toggle="popover" data-content="First built during the 2012 Fellowship, LocalData makes it easy for communities to collect neighborhood data to improve decisionmaking.<br /> <em>Fellowship, Incubator</em>" data-original-title="LocalData" href="http://localdata.com/" target="_blank"></a>
+ 1018        <a class="appspop civicinsight" rel="popover" data-toggle="popover" data-content="Civic Insight is an update of BlightStatus, built during the 2012 Fellowship. It shares real-time data about properties, like permitting and blight abatement.<br /> <em>Fellowship, Incubator</em>" data-original-title="Civic Insight" href="http://civicinsight.com/" target="_blank"></a>
+ 1019        <a class="appspop wheresmyschoolbus" rel="popover" data-toggle="popover" data-content="Created by the 2011 Fellows, this app allows parents to track their child’s school bus in real time.<br /> <em>Fellowship</em>" data-original-title="Where's My School Bus?" href="https://schoolbus.bostonpublicschools.org/" target="_blank"></a>
+ ....
+ 3147  
+ 3148  <div class="attribution">
+ 3149:     <p>Original design <a href="http://2012.codeforamerica.org" target="_blank">created in 2012</a> by: Angel Kittyachavalit, Mick Thompson&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;This report created with help from: &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.postcode.io" target="_blank"><img src="img/postcode_logo.png"></a></p>
+ 3150  </div>
+ 3151  
+
+/Users/julia/Documents/Code/Report/_site/2013/01/11/thanks/index.html:
+   35  </div>
+   36  <div class="attribution">
+   37: 	<p>Original design <a href="http://2012.codeforamerica.org" target="_blank">created in 2012</a> by: Angel Kittyachavalit, Mick Thompson&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;This report created with help from: &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.postcode.io" target="_blank"><img src="img/postcode_logo.png"></a></p>
+   38  </div>
+   39  
+
+/Users/julia/Documents/Code/Report/_site/2013/01/31/applications/index.html:
+   64        <a class="appspop streetmix" rel="popover" data-toggle="popover" data-content="Lets anyone, anywhere design, remix, and share their street.<br /> <em>Fellowship</em>" data-original-title="Streetmix" href="http://streetmix.net/" target="_blank"></a>
+   65        <a class="appspop jailpop" rel="popover" data-toggle="popover" data-content="Visualizes Louisville metro jail data to aid judges in decision-making.<br /> <em>Fellowship</em>" data-original-title="Jail Population Management Dashboard / Louisville" href="http://www.codeforamerica.org/cities/louisville/" target="_blank"></a>
+   66:       <a class="appspop cityvoice_logo" rel="popover" data-toggle="popover" data-content="Gives residents a say about vacant and abandoned properties.<br /> <em>Fellowship</em>" data-original-title="City Voice / South Bend" href="http://www.cityvoiceapp.com/" target="_blank"></a>
+   67:       <a class="appspop bizfriendly_logo" rel="popover" data-toggle="popover" data-content="Teaches modern web tools to business owners.<br /> <em>Fellowship</em>" data-original-title="BizFriendly / Kansas City" href="http://bizfriend.ly/" target="_blank"></a>
+   68        <a class="appspop clickthathood" rel="popover" data-toggle="popover" data-content="An educational geography game being played in 86 cities in 11 countries.<br /> <em>Fellowship</em>" data-original-title="Click That 'Hood" href="http://click-that-hood.com/" target="_blank"></a>
+   69        <a class="appspop nycccs" rel="popover" data-toggle="popover" data-content="Helps judges better direct defendants to alternative incarceration programs.<br /> <em>Fellowship</em>" data-original-title="Criminal Case Search / New York" href="http://codeforamerica.org/cities/newyork/" target="_blank"></a>
+   70        <a class="appspop development_fast_pass" rel="popover" data-toggle="popover" data-content="Educates business owners on zoning and land use information.<br /> <em>Fellowship</em>" data-original-title="Development Fast Pass / Las Vegas" href="http://lv-dof-staging.herokuapp.com/#/" target="_blank"></a>
+   71:       <a class="appspop tothetrails_logo" rel="popover" data-toggle="popover" data-content="Helps hikers navigate the trails and terrain.<br /> <em>Fellowship</em>" data-original-title="To the Trails / Summit County" href="http://www.tothetrails.com/" target="_blank"></a>
+   72        <a class="appspop oppcaster" rel="popover" data-toggle="popover" data-content="Informs interested businesses about contracting opportunities.<br /> <em>Fellowship</em>" data-original-title="OppCaster / South Bend" href="http://www.oppcaster.com/" target="_blank"></a>
+   73        <a class="appspop foodtruckslv" rel="popover" data-toggle="popover" data-content="Provides real-time food truck information. The first app of its kind.<br /> <em>Fellowship</em>" data-original-title="Food Truck App / Las Vegas" href="http://www.lasvegasnevada.gov/foodtruck/" target="_blank"></a>
+   ..
+  115        <a class="appspop textmybus" rel="popover" data-toggle="popover" data-content="The 2012 Detroit Fellows built TextMyBus, which has scaled to thousands of users across the city who use it on a daily basis to check the arrival times of their buses.  <br /> <em>Fellowship</em>" data-original-title="TextMyBus" href="http://textmybus.com/" target="_blank"></a>
+  116        <a class="appspop textizen" rel="popover" data-toggle="popover" data-content="First built during the 2012 Fellowship, Textizen is now a civic startup with a product live in nine communities.<br /> <em>Fellowship, Incubator</em>" data-original-title="Textizen" href="http://textizen.com/" target="_blank"></a>
+  117:       <a class="appspop localdatalogo" rel="popover" data-toggle="popover" data-content="First built during the 2012 Fellowship, LocalData makes it easy for communities to collect neighborhood data to improve decisionmaking.<br /> <em>Fellowship, Incubator</em>" data-original-title="LocalData" href="http://localdata.com/" target="_blank"></a>
+  118        <a class="appspop civicinsight" rel="popover" data-toggle="popover" data-content="Civic Insight is an update of BlightStatus, built during the 2012 Fellowship. It shares real-time data about properties, like permitting and blight abatement.<br /> <em>Fellowship, Incubator</em>" data-original-title="Civic Insight" href="http://civicinsight.com/" target="_blank"></a>
+  119        <a class="appspop wheresmyschoolbus" rel="popover" data-toggle="popover" data-content="Created by the 2011 Fellows, this app allows parents to track their child’s school bus in real time.<br /> <em>Fellowship</em>" data-original-title="Where's My School Bus?" href="https://schoolbus.bostonpublicschools.org/" target="_blank"></a>
+
+/Users/julia/Documents/Code/Report/_site/css/base.css:
+    1  /*****************************************************************************/
+    2  /*
+    3: /* Logos
+    4  /*
+    5  /*****************************************************************************/
+    6: /* line 7, ../sass/_application-logos.scss */
+    7  .appspop {
+    8:   background-image: url("../img/apps_logos.png");
+    9    background-size: 100px;
+   10    float: left;
+   ..
+   14  }
+   15  
+   16: /* line 16, ../sass/_application-logos.scss */
+   17  a.appspop:hover {
+   18    border: none;
+   19  }
+   20  
+   21: /* line 47, ../sass/_application-logos.scss */
+   22  .srtracker,
+   23  .fm,
+   ..
+   48  .scmap,
+   49  .maconmap {
+   50:   background-image: url("../img/apps_logos.png");
+   51    background-size: 100px;
+   52    float: left;
+   ..
+   56  }
+   57  
+   58: /* line 56, ../sass/_application-logos.scss */
+   59  .srtracker {
+   60    background-position: 0 0;
+   61  }
+   62  
+   63: /* line 60, ../sass/_application-logos.scss */
+   64  .fm {
+   65    background-position: 0 -100px;
+   66  }
+   67  
+   68: /* line 64, ../sass/_application-logos.scss */
+   69  .labs {
+   70    background-position: 0 -200px;
+   71  }
+   72  
+   73: /* line 68, ../sass/_application-logos.scss */
+   74  .adopta {
+   75    background-position: 0 -300px;
+   76  }
+   77  
+   78: /* line 72, ../sass/_application-logos.scss */
+   79  .blight {
+   80    background-position: 0 -400px;
+   81  }
+   82  
+   83: /* line 76, ../sass/_application-logos.scss */
+   84  .blockee {
+   85    background-position: 0 -500px;
+   86  }
+   87  
+   88: /* line 80, ../sass/_application-logos.scss */
+   89  .hnlanswers {
+   90    background-position: 0 -600px;
+   91  }
+   92  
+   93: /* line 84, ../sass/_application-logos.scss */
+   94  .localdata {
+   95    background-position: 0 -700px;
+   96  }
+   97  
+   98: /* line 88, ../sass/_application-logos.scss */
+   99  .neighborhow {
+  100    background-position: 0 -800px;
+  101  }
+  102  
+  103: /* line 92, ../sass/_application-logos.scss */
+  104  .opencounter {
+  105    background-position: 0 -900px;
+  106  }
+  107  
+  108: /* line 96, ../sass/_application-logos.scss */
+  109  .openstatus {
+  110    background-position: 0 -1000px;
+  111  }
+  112  
+  113: /* line 100, ../sass/_application-logos.scss */
+  114  .preparedly {
+  115    background-position: 0 -1100px;
+  116  }
+  117  
+  118: /* line 104, ../sass/_application-logos.scss */
+  119  .routeview {
+  120    background-position: 0 -1200px;
+  121  }
+  122  
+  123: /* line 108, ../sass/_application-logos.scss */
+  124  .opendata {
+  125    background-position: 0 -1300px;
+  126  }
+  127  
+  128: /* line 112, ../sass/_application-logos.scss */
+  129  .socialcity {
+  130    background-position: 0 -1400px;
+  131  }
+  132  
+  133: /* line 116, ../sass/_application-logos.scss */
+  134  .pennywork {
+  135    background-position: 0 -1500px;
+  136  }
+  137  
+  138: /* line 120, ../sass/_application-logos.scss */
+  139  .straymapper {
+  140    background-position: 0 -1600px;
+  141  }
+  142  
+  143: /* line 124, ../sass/_application-logos.scss */
+  144  .supermayor {
+  145    background-position: 0 -1700px;
+  146  }
+  147  
+  148: /* line 128, ../sass/_application-logos.scss */
+  149  .textmybus {
+  150    background-position: 0 -1800px;
+  151  }
+  152  
+  153: /* line 132, ../sass/_application-logos.scss */
+  154  .textizen {
+  155    background-position: 0 -1900px;
+  156  }
+  157  
+  158: /* line 136, ../sass/_application-logos.scss */
+  159  .dailybrief {
+  160    background-position: 0 -2000px;
+  161  }
+  162  
+  163: /* line 140, ../sass/_application-logos.scss */
+  164  .nolaready {
+  165    background-position: 0 -2100px;
+  166  }
+  167  
+  168: /* line 144, ../sass/_application-logos.scss */
+  169  .atxfloods {
+  170    background-position: 0 -2200px;
+  171  }
+  172  
+  173: /* line 148, ../sass/_application-logos.scss */
+  174  .bike {
+  175    background-position: 0 -2300px;
+  176  }
+  177  
+  178: /* line 152, ../sass/_application-logos.scss */
+  179  .deepdish {
+  180    background-position: 0 -2400px;
+  181  }
+  182  
+  183: /* line 156, ../sass/_application-logos.scss */
+  184  .publicart {
+  185    background-position: 0 -2500px;
+  186  }
+  187  
+  188: /* line 160, ../sass/_application-logos.scss */
+  189  .scmap {
+  190    background-position: 0 -2600px;
+  191  }
+  192  
+  193: /* line 164, ../sass/_application-logos.scss */
+  194  .maconmap {
+  195    background-position: 0 -2700px;
+  196  }
+  197  
+  198: /* line 361, ../sass/_application-logos.scss */
+  199: .adoptadrain, .adoptatwincities, .alexandriaplays, .archivesocial_sq, .bizfriendly_logo, .cityvoice_logo, .civicinsight, .clickthathood, .councilmatic, .dataquestionnaire, .development_fast_pass, .discoverbpsnew, .early_oakland, .fishstocking, .fllegtracker, .flu_shot_finder, .foodtruckslv, .hampton_roads, .honlulubudget, .lakecraft, .littlelibrariesmadison, .localwiki, .lookatasheville, .mappinggentrification, .nwdata, .oakland_answers, .omgtransit, .openbudgetoak, .opencounter, .oppcaster, .pantry_pickup2, .promptly, .recordtrac, .smartprocure_sq, .smcconnect, .streetcred_logo, .streetcredsq, .streetmix, .textizensmall, .textmybus, .tothetrails_logo, .vermontlibrary, .whatsmydistrict, .wheresmyschoolbus, .ohana_api, .ckan, .faf, .jailpop, .nycccs, .streettrees {
+  200    background: url("../img/apps/appssprites.png") no-repeat;
+  201  }
+  202  
+  203: /* line 365, ../sass/_application-logos.scss */
+  204  .adoptadrain {
+  205    background-position: 0 0;
+  ...
+  208  }
+  209  
+  210: /* line 371, ../sass/_application-logos.scss */
+  211  .adoptatwincities {
+  212    background-position: -109px -1px;
+  ...
+  215  }
+  216  
+  217: /* line 377, ../sass/_application-logos.scss */
+  218  .alexandriaplays {
+  219    background-position: -353px 0;
+  ...
+  222  }
+  223  
+  224: /* line 383, ../sass/_application-logos.scss */
+  225  .archivesocial_sq {
+  226    background-position: -113px -424px;
+  ...
+  229  }
+  230  
+  231: /* line 389, ../sass/_application-logos.scss */
+  232: .bizfriendly_logo {
+  233    background-position: -439px -535px;
+  234    width: 100px;
+  ...
+  236  }
+  237  
+  238: /* line 395, ../sass/_application-logos.scss */
+  239: .cityvoice_logo {
+  240    background-position: -220px -531px;
+  241    width: 100px;
+  ...
+  243  }
+  244  
+  245: /* line 401, ../sass/_application-logos.scss */
+  246  .civicinsight {
+  247    background-position: -326px -538px;
+  ...
+  250  }
+  251  
+  252: /* line 407, ../sass/_application-logos.scss */
+  253  .clickthathood {
+  254    background-position: -111px -532px;
+  ...
+  257  }
+  258  
+  259: /* line 413, ../sass/_application-logos.scss */
+  260  .councilmatic {
+  261    background-position: -333px -425px;
+  ...
+  264  }
+  265  
+  266: /* line 419, ../sass/_application-logos.scss */
+  267  .dataquestionnaire {
+  268    background-position: -2px -530px;
+  ...
+  271  }
+  272  
+  273: /* line 425, ../sass/_application-logos.scss */
+  274  .development_fast_pass {
+  275    background-position: -552px -429px;
+  ...
+  278  }
+  279  
+  280: /* line 431, ../sass/_application-logos.scss */
+  281  .discoverbpsnew {
+  282    background-position: -662px -422px;
+  ...
+  285  }
+  286  
+  287: /* line 437, ../sass/_application-logos.scss */
+  288  .early_oakland {
+  289    background-position: -778px -417px;
+  ...
+  292  }
+  293  
+  294: /* line 443, ../sass/_application-logos.scss */
+  295  .fishstocking {
+  296    background-position: -442px -427px;
+  ...
+  299  }
+  300  
+  301: /* line 449, ../sass/_application-logos.scss */
+  302  .fllegtracker {
+  303    background-position: -767px -314px;
+  ...
+  306  }
+  307  
+  308: /* line 455, ../sass/_application-logos.scss */
+  309  .flu_shot_finder {
+  310    background-position: -445px -322px;
+  ...
+  313  }
+  314  
+  315: /* line 461, ../sass/_application-logos.scss */
+  316  .foodtruckslv {
+  317    background-position: -418px -215px;
+  ...
+  320  }
+  321  
+  322: /* line 467, ../sass/_application-logos.scss */
+  323  .hampton_roads {
+  324    background-position: -333px -317px;
+  ...
+  327  }
+  328  
+  329: /* line 473, ../sass/_application-logos.scss */
+  330  .honlulubudget {
+  331    background-position: -554px -322px;
+  ...
+  334  }
+  335  
+  336: /* line 479, ../sass/_application-logos.scss */
+  337  .lakecraft {
+  338    background-position: -662px -319px;
+  ...
+  341  }
+  342  
+  343: /* line 485, ../sass/_application-logos.scss */
+  344  .littlelibrariesmadison {
+  345    background-position: -110px -311px;
+  ...
+  348  }
+  349  
+  350: /* line 491, ../sass/_application-logos.scss */
+  351  .localwiki {
+  352    background-position: -942px -210px;
+  ...
+  355  }
+  356  
+  357: /* line 497, ../sass/_application-logos.scss */
+  358  .lookatasheville {
+  359    background-position: -832px -208px;
+  ...
+  362  }
+  363  
+  364: /* line 503, ../sass/_application-logos.scss */
+  365  .mappinggentrification {
+  366    background-position: -660px -214px;
+  ...
+  369  }
+  370  
+  371: /* line 509, ../sass/_application-logos.scss */
+  372  .nwdata {
+  373    background-position: -527px -213px;
+  ...
+  376  }
+  377  
+  378: /* line 515, ../sass/_application-logos.scss */
+  379  .oakland_answers {
+  380    background-position: -310px -207px;
+  ...
+  383  }
+  384  
+  385: /* line 521, ../sass/_application-logos.scss */
+  386  .omgtransit {
+  387    background-position: -102px -204px;
+  ...
+  390  }
+  391  
+  392: /* line 527, ../sass/_application-logos.scss */
+  393  .openbudgetoak {
+  394    background-position: 0 -204px;
+  ...
+  397  }
+  398  
+  399: /* line 533, ../sass/_application-logos.scss */
+  400  .opencounter {
+  401    background-position: -899px -424px;
+  ...
+  404  }
+  405  
+  406: /* line 539, ../sass/_application-logos.scss */
+  407  .oppcaster {
+  408    background-position: -874px -102px;
+  ...
+  411  }
+  412  
+  413: /* line 545, ../sass/_application-logos.scss */
+  414  .pantry_pickup2 {
+  415    background-position: -748px -103px;
+  ...
+  418  }
+  419  
+  420: /* line 551, ../sass/_application-logos.scss */
+  421  .promptly {
+  422    background-position: -637px -107px;
+  ...
+  425  }
+  426  
+  427: /* line 557, ../sass/_application-logos.scss */
+  428  .recordtrac {
+  429    background-position: -527px -109px;
+  ...
+  432  }
+  433  
+  434: /* line 563, ../sass/_application-logos.scss */
+  435  .smartprocure_sq {
+  436    background-position: -425px -106px;
+  ...
+  439  }
+  440  
+  441: /* line 569, ../sass/_application-logos.scss */
+  442  .smcconnect {
+  443    background-position: -322px -106px;
+  ...
+  446  }
+  447  
+  448: /* line 575, ../sass/_application-logos.scss */
+  449: .streetcred_logo {
+  450    background-position: -218px -106px;
+  451    width: 100px;
+  ...
+  453  }
+  454  
+  455: /* line 581, ../sass/_application-logos.scss */
+  456  .streetcredsq {
+  457    background-position: -107px -100px;
+  ...
+  460  }
+  461  
+  462: /* line 587, ../sass/_application-logos.scss */
+  463  .streetmix {
+  464    background-position: 0 -102px;
+  ...
+  467  }
+  468  
+  469: /* line 593, ../sass/_application-logos.scss */
+  470  .textizensmall {
+  471    background-position: -902px 0;
+  ...
+  474  }
+  475  
+  476: /* line 599, ../sass/_application-logos.scss */
+  477  .textmybus {
+  478    background-position: -792px 0;
+  ...
+  481  }
+  482  
+  483: /* line 605, ../sass/_application-logos.scss */
+  484: .tothetrails_logo {
+  485    background-position: -680px -2px;
+  486    width: 100px;
+  ...
+  488  }
+  489  
+  490: /* line 611, ../sass/_application-logos.scss */
+  491  .vermontlibrary {
+  492    background-position: -578px -3px;
+  ...
+  495  }
+  496  
+  497: /* line 617, ../sass/_application-logos.scss */
+  498  .whatsmydistrict {
+  499    background-position: -470px -4px;
+  ...
+  502  }
+  503  
+  504: /* line 623, ../sass/_application-logos.scss */
+  505  .wheresmyschoolbus {
+  506    background-position: -229px -2px;
+  ...
+  509  }
+  510  
+  511: /* line 629, ../sass/_application-logos.scss */
+  512  .ohana_api {
+  513    background-position: -206px -207px;
+  ...
+  516  }
+  517  
+  518: /* line 635, ../sass/_application-logos.scss */
+  519  .ckan {
+  520    background-position: -2px -426px;
+  ...
+  523  }
+  524  
+  525: /* line 641, ../sass/_application-logos.scss */
+  526  .faf {
+  527    background-position: -872px -317px;
+  ...
+  530  }
+  531  
+  532: /* line 647, ../sass/_application-logos.scss */
+  533  .jailpop {
+  534    background-position: -222px -422px;
+  ...
+  537  }
+  538  
+  539: /* line 653, ../sass/_application-logos.scss */
+  540: .localdatalogo {
+  541:   background-image: url("../img/apps/localdatalogo.png");
+  542  }
+  543  
+  544: /* line 657, ../sass/_application-logos.scss */
+  545  .nycccs {
+  546    background-position: -223px -315px;
+  ...
+  549  }
+  550  
+  551: /* line 663, ../sass/_application-logos.scss */
+  552  .streettrees {
+  553    background-position: -552px -538px;
+  ...
+ 2101  /*****************************************************************************/
+ 2102  /*
+ 2103: /* Startup Logos
+ 2104  /*
+ 2105  /*****************************************************************************/
+ 2106: /* line 9, ../sass/_startup-logos.scss */
+ 2107  .startupspop {
+ 2108    background: none;
+ ....
+ 2114  }
+ 2115  
+ 2116: /* line 18, ../sass/_startup-logos.scss */
+ 2117  a.startupspop:hover {
+ 2118    border: none;
+ 2119  }
+ 2120  
+ 2121: /* line 23, ../sass/_startup-logos.scss */
+ 2122  .startupspop.startup_CI {
+ 2123    background-image: url("../img/apps/inverse_civicinsight.png");
+ 2124  }
+ 2125  
+ 2126: /* line 27, ../sass/_startup-logos.scss */
+ 2127  .startupspop.startup_LD {
+ 2128    background-image: url("../img/apps/inverse_localdata.png");
+ 2129  }
+ 2130  
+ 2131: /* line 31, ../sass/_startup-logos.scss */
+ 2132  .startupspop.startup_TZ {
+ 2133    background-image: url("../img/apps/inverse_textizen.png");
+ 2134  }
+ 2135  
+ 2136: /* line 35, ../sass/_startup-logos.scss */
+ 2137  .startupspop.startup_AS {
+ 2138    background-image: url("../img/apps/inverse_archivesocial.png");
+ 2139  }
+ 2140  
+ 2141: /* line 39, ../sass/_startup-logos.scss */
+ 2142  .startupspop.startup_FAF {
+ 2143    background-image: url("../img/apps/inverse_FAF.png");
+ 2144  }
+ 2145  
+ 2146: /* line 43, ../sass/_startup-logos.scss */
+ 2147  .startupspop.startup_OC {
+ 2148    background-image: url("../img/apps/inverse_opencounter.png");
+ 2149  }
+ 2150  
+ 2151: /* line 47, ../sass/_startup-logos.scss */
+ 2152  .startupspop.startup_SP {
+ 2153    background-image: url("../img/apps/inverse_smartprocure.png");
+ 2154  }
+ 2155  
+ 2156: /* line 51, ../sass/_startup-logos.scss */
+ 2157  .startupspop.startup_SC {
+ 2158    background-image: url("../img/apps/inverse_streetcred.png");
+ ....
+ 2547  
+ 2548  /* line 37, ../sass/base.scss */
+ 2549: .logo {
+ 2550    display: block;
+ 2551    margin-left: auto;
+ ....
+ 2554  
+ 2555  /* line 43, ../sass/base.scss */
+ 2556: .logo img {
+ 2557    max-width: 85px;
+ 2558  }
+
+/Users/julia/Documents/Code/Report/_site/js/main.js:
+  462    }, 1000);
+  463    var usTopology;
+  464:   //shows nav when user hovers over the logo
+  465    var height = $(window).height(),
+  466    width = $(window).width();
+
+/Users/julia/Documents/Code/Report/_site/sass/base.scss:
+    1  @import "compass";
+    2: @import "application-logos";
+    3  @import "backgrounds";
+    4  @import "carousel";
+    .
+    9  @import "map";
+   10  @import "press";
+   11: @import "startup-logos";
+   12  @import "colors";
+   13  @import "typography";
+   ..
+   35  }
+   36  
+   37: .logo {
+   38    display: block;
+   39    margin-left: auto;
+   ..
+   41  }
+   42  
+   43: .logo img {
+   44    max-width: 85px;
+   45  }
+
+/Users/julia/Documents/Code/Report/css/base.css:
+    1  /*****************************************************************************/
+    2  /*
+    3: /* Logos
+    4  /*
+    5  /*****************************************************************************/
+    6: /* line 7, ../sass/_application-logos.scss */
+    7  .appspop {
+    8:   background-image: url("../img/apps_logos.png");
+    9    background-size: 100px;
+   10    float: left;
+   ..
+   14  }
+   15  
+   16: /* line 16, ../sass/_application-logos.scss */
+   17  a.appspop:hover {
+   18    border: none;
+   19  }
+   20  
+   21: /* line 47, ../sass/_application-logos.scss */
+   22  .srtracker,
+   23  .fm,
+   ..
+   48  .scmap,
+   49  .maconmap {
+   50:   background-image: url("../img/apps_logos.png");
+   51    background-size: 100px;
+   52    float: left;
+   ..
+   56  }
+   57  
+   58: /* line 56, ../sass/_application-logos.scss */
+   59  .srtracker {
+   60    background-position: 0 0;
+   61  }
+   62  
+   63: /* line 60, ../sass/_application-logos.scss */
+   64  .fm {
+   65    background-position: 0 -100px;
+   66  }
+   67  
+   68: /* line 64, ../sass/_application-logos.scss */
+   69  .labs {
+   70    background-position: 0 -200px;
+   71  }
+   72  
+   73: /* line 68, ../sass/_application-logos.scss */
+   74  .adopta {
+   75    background-position: 0 -300px;
+   76  }
+   77  
+   78: /* line 72, ../sass/_application-logos.scss */
+   79  .blight {
+   80    background-position: 0 -400px;
+   81  }
+   82  
+   83: /* line 76, ../sass/_application-logos.scss */
+   84  .blockee {
+   85    background-position: 0 -500px;
+   86  }
+   87  
+   88: /* line 80, ../sass/_application-logos.scss */
+   89  .hnlanswers {
+   90    background-position: 0 -600px;
+   91  }
+   92  
+   93: /* line 84, ../sass/_application-logos.scss */
+   94  .localdata {
+   95    background-position: 0 -700px;
+   96  }
+   97  
+   98: /* line 88, ../sass/_application-logos.scss */
+   99  .neighborhow {
+  100    background-position: 0 -800px;
+  101  }
+  102  
+  103: /* line 92, ../sass/_application-logos.scss */
+  104  .opencounter {
+  105    background-position: 0 -900px;
+  106  }
+  107  
+  108: /* line 96, ../sass/_application-logos.scss */
+  109  .openstatus {
+  110    background-position: 0 -1000px;
+  111  }
+  112  
+  113: /* line 100, ../sass/_application-logos.scss */
+  114  .preparedly {
+  115    background-position: 0 -1100px;
+  116  }
+  117  
+  118: /* line 104, ../sass/_application-logos.scss */
+  119  .routeview {
+  120    background-position: 0 -1200px;
+  121  }
+  122  
+  123: /* line 108, ../sass/_application-logos.scss */
+  124  .opendata {
+  125    background-position: 0 -1300px;
+  126  }
+  127  
+  128: /* line 112, ../sass/_application-logos.scss */
+  129  .socialcity {
+  130    background-position: 0 -1400px;
+  131  }
+  132  
+  133: /* line 116, ../sass/_application-logos.scss */
+  134  .pennywork {
+  135    background-position: 0 -1500px;
+  136  }
+  137  
+  138: /* line 120, ../sass/_application-logos.scss */
+  139  .straymapper {
+  140    background-position: 0 -1600px;
+  141  }
+  142  
+  143: /* line 124, ../sass/_application-logos.scss */
+  144  .supermayor {
+  145    background-position: 0 -1700px;
+  146  }
+  147  
+  148: /* line 128, ../sass/_application-logos.scss */
+  149  .textmybus {
+  150    background-position: 0 -1800px;
+  151  }
+  152  
+  153: /* line 132, ../sass/_application-logos.scss */
+  154  .textizen {
+  155    background-position: 0 -1900px;
+  156  }
+  157  
+  158: /* line 136, ../sass/_application-logos.scss */
+  159  .dailybrief {
+  160    background-position: 0 -2000px;
+  161  }
+  162  
+  163: /* line 140, ../sass/_application-logos.scss */
+  164  .nolaready {
+  165    background-position: 0 -2100px;
+  166  }
+  167  
+  168: /* line 144, ../sass/_application-logos.scss */
+  169  .atxfloods {
+  170    background-position: 0 -2200px;
+  171  }
+  172  
+  173: /* line 148, ../sass/_application-logos.scss */
+  174  .bike {
+  175    background-position: 0 -2300px;
+  176  }
+  177  
+  178: /* line 152, ../sass/_application-logos.scss */
+  179  .deepdish {
+  180    background-position: 0 -2400px;
+  181  }
+  182  
+  183: /* line 156, ../sass/_application-logos.scss */
+  184  .publicart {
+  185    background-position: 0 -2500px;
+  186  }
+  187  
+  188: /* line 160, ../sass/_application-logos.scss */
+  189  .scmap {
+  190    background-position: 0 -2600px;
+  191  }
+  192  
+  193: /* line 164, ../sass/_application-logos.scss */
+  194  .maconmap {
+  195    background-position: 0 -2700px;
+  196  }
+  197  
+  198: /* line 361, ../sass/_application-logos.scss */
+  199: .adoptadrain, .adoptatwincities, .alexandriaplays, .archivesocial_sq, .bizfriendly_logo, .cityvoice_logo, .civicinsight, .clickthathood, .councilmatic, .dataquestionnaire, .development_fast_pass, .discoverbpsnew, .early_oakland, .fishstocking, .fllegtracker, .flu_shot_finder, .foodtruckslv, .hampton_roads, .honlulubudget, .lakecraft, .littlelibrariesmadison, .localwiki, .lookatasheville, .mappinggentrification, .nwdata, .oakland_answers, .omgtransit, .openbudgetoak, .opencounter, .oppcaster, .pantry_pickup2, .promptly, .recordtrac, .smartprocure_sq, .smcconnect, .streetcred_logo, .streetcredsq, .streetmix, .textizensmall, .textmybus, .tothetrails_logo, .vermontlibrary, .whatsmydistrict, .wheresmyschoolbus, .ohana_api, .ckan, .faf, .jailpop, .nycccs, .streettrees {
+  200    background: url("../img/apps/appssprites.png") no-repeat;
+  201  }
+  202  
+  203: /* line 365, ../sass/_application-logos.scss */
+  204  .adoptadrain {
+  205    background-position: 0 0;
+  ...
+  208  }
+  209  
+  210: /* line 371, ../sass/_application-logos.scss */
+  211  .adoptatwincities {
+  212    background-position: -109px -1px;
+  ...
+  215  }
+  216  
+  217: /* line 377, ../sass/_application-logos.scss */
+  218  .alexandriaplays {
+  219    background-position: -353px 0;
+  ...
+  222  }
+  223  
+  224: /* line 383, ../sass/_application-logos.scss */
+  225  .archivesocial_sq {
+  226    background-position: -113px -424px;
+  ...
+  229  }
+  230  
+  231: /* line 389, ../sass/_application-logos.scss */
+  232: .bizfriendly_logo {
+  233    background-position: -439px -535px;
+  234    width: 100px;
+  ...
+  236  }
+  237  
+  238: /* line 395, ../sass/_application-logos.scss */
+  239: .cityvoice_logo {
+  240    background-position: -220px -531px;
+  241    width: 100px;
+  ...
+  243  }
+  244  
+  245: /* line 401, ../sass/_application-logos.scss */
+  246  .civicinsight {
+  247    background-position: -326px -538px;
+  ...
+  250  }
+  251  
+  252: /* line 407, ../sass/_application-logos.scss */
+  253  .clickthathood {
+  254    background-position: -111px -532px;
+  ...
+  257  }
+  258  
+  259: /* line 413, ../sass/_application-logos.scss */
+  260  .councilmatic {
+  261    background-position: -333px -425px;
+  ...
+  264  }
+  265  
+  266: /* line 419, ../sass/_application-logos.scss */
+  267  .dataquestionnaire {
+  268    background-position: -2px -530px;
+  ...
+  271  }
+  272  
+  273: /* line 425, ../sass/_application-logos.scss */
+  274  .development_fast_pass {
+  275    background-position: -552px -429px;
+  ...
+  278  }
+  279  
+  280: /* line 431, ../sass/_application-logos.scss */
+  281  .discoverbpsnew {
+  282    background-position: -662px -422px;
+  ...
+  285  }
+  286  
+  287: /* line 437, ../sass/_application-logos.scss */
+  288  .early_oakland {
+  289    background-position: -778px -417px;
+  ...
+  292  }
+  293  
+  294: /* line 443, ../sass/_application-logos.scss */
+  295  .fishstocking {
+  296    background-position: -442px -427px;
+  ...
+  299  }
+  300  
+  301: /* line 449, ../sass/_application-logos.scss */
+  302  .fllegtracker {
+  303    background-position: -767px -314px;
+  ...
+  306  }
+  307  
+  308: /* line 455, ../sass/_application-logos.scss */
+  309  .flu_shot_finder {
+  310    background-position: -445px -322px;
+  ...
+  313  }
+  314  
+  315: /* line 461, ../sass/_application-logos.scss */
+  316  .foodtruckslv {
+  317    background-position: -418px -215px;
+  ...
+  320  }
+  321  
+  322: /* line 467, ../sass/_application-logos.scss */
+  323  .hampton_roads {
+  324    background-position: -333px -317px;
+  ...
+  327  }
+  328  
+  329: /* line 473, ../sass/_application-logos.scss */
+  330  .honlulubudget {
+  331    background-position: -554px -322px;
+  ...
+  334  }
+  335  
+  336: /* line 479, ../sass/_application-logos.scss */
+  337  .lakecraft {
+  338    background-position: -662px -319px;
+  ...
+  341  }
+  342  
+  343: /* line 485, ../sass/_application-logos.scss */
+  344  .littlelibrariesmadison {
+  345    background-position: -110px -311px;
+  ...
+  348  }
+  349  
+  350: /* line 491, ../sass/_application-logos.scss */
+  351  .localwiki {
+  352    background-position: -942px -210px;
+  ...
+  355  }
+  356  
+  357: /* line 497, ../sass/_application-logos.scss */
+  358  .lookatasheville {
+  359    background-position: -832px -208px;
+  ...
+  362  }
+  363  
+  364: /* line 503, ../sass/_application-logos.scss */
+  365  .mappinggentrification {
+  366    background-position: -660px -214px;
+  ...
+  369  }
+  370  
+  371: /* line 509, ../sass/_application-logos.scss */
+  372  .nwdata {
+  373    background-position: -527px -213px;
+  ...
+  376  }
+  377  
+  378: /* line 515, ../sass/_application-logos.scss */
+  379  .oakland_answers {
+  380    background-position: -310px -207px;
+  ...
+  383  }
+  384  
+  385: /* line 521, ../sass/_application-logos.scss */
+  386  .omgtransit {
+  387    background-position: -102px -204px;
+  ...
+  390  }
+  391  
+  392: /* line 527, ../sass/_application-logos.scss */
+  393  .openbudgetoak {
+  394    background-position: 0 -204px;
+  ...
+  397  }
+  398  
+  399: /* line 533, ../sass/_application-logos.scss */
+  400  .opencounter {
+  401    background-position: -899px -424px;
+  ...
+  404  }
+  405  
+  406: /* line 539, ../sass/_application-logos.scss */
+  407  .oppcaster {
+  408    background-position: -874px -102px;
+  ...
+  411  }
+  412  
+  413: /* line 545, ../sass/_application-logos.scss */
+  414  .pantry_pickup2 {
+  415    background-position: -748px -103px;
+  ...
+  418  }
+  419  
+  420: /* line 551, ../sass/_application-logos.scss */
+  421  .promptly {
+  422    background-position: -637px -107px;
+  ...
+  425  }
+  426  
+  427: /* line 557, ../sass/_application-logos.scss */
+  428  .recordtrac {
+  429    background-position: -527px -109px;
+  ...
+  432  }
+  433  
+  434: /* line 563, ../sass/_application-logos.scss */
+  435  .smartprocure_sq {
+  436    background-position: -425px -106px;
+  ...
+  439  }
+  440  
+  441: /* line 569, ../sass/_application-logos.scss */
+  442  .smcconnect {
+  443    background-position: -322px -106px;
+  ...
+  446  }
+  447  
+  448: /* line 575, ../sass/_application-logos.scss */
+  449: .streetcred_logo {
+  450    background-position: -218px -106px;
+  451    width: 100px;
+  ...
+  453  }
+  454  
+  455: /* line 581, ../sass/_application-logos.scss */
+  456  .streetcredsq {
+  457    background-position: -107px -100px;
+  ...
+  460  }
+  461  
+  462: /* line 587, ../sass/_application-logos.scss */
+  463  .streetmix {
+  464    background-position: 0 -102px;
+  ...
+  467  }
+  468  
+  469: /* line 593, ../sass/_application-logos.scss */
+  470  .textizensmall {
+  471    background-position: -902px 0;
+  ...
+  474  }
+  475  
+  476: /* line 599, ../sass/_application-logos.scss */
+  477  .textmybus {
+  478    background-position: -792px 0;
+  ...
+  481  }
+  482  
+  483: /* line 605, ../sass/_application-logos.scss */
+  484: .tothetrails_logo {
+  485    background-position: -680px -2px;
+  486    width: 100px;
+  ...
+  488  }
+  489  
+  490: /* line 611, ../sass/_application-logos.scss */
+  491  .vermontlibrary {
+  492    background-position: -578px -3px;
+  ...
+  495  }
+  496  
+  497: /* line 617, ../sass/_application-logos.scss */
+  498  .whatsmydistrict {
+  499    background-position: -470px -4px;
+  ...
+  502  }
+  503  
+  504: /* line 623, ../sass/_application-logos.scss */
+  505  .wheresmyschoolbus {
+  506    background-position: -229px -2px;
+  ...
+  509  }
+  510  
+  511: /* line 629, ../sass/_application-logos.scss */
+  512  .ohana_api {
+  513    background-position: -206px -207px;
+  ...
+  516  }
+  517  
+  518: /* line 635, ../sass/_application-logos.scss */
+  519  .ckan {
+  520    background-position: -2px -426px;
+  ...
+  523  }
+  524  
+  525: /* line 641, ../sass/_application-logos.scss */
+  526  .faf {
+  527    background-position: -872px -317px;
+  ...
+  530  }
+  531  
+  532: /* line 647, ../sass/_application-logos.scss */
+  533  .jailpop {
+  534    background-position: -222px -422px;
+  ...
+  537  }
+  538  
+  539: /* line 653, ../sass/_application-logos.scss */
+  540: .localdatalogo {
+  541:   background-image: url("../img/apps/localdatalogo.png");
+  542  }
+  543  
+  544: /* line 657, ../sass/_application-logos.scss */
+  545  .nycccs {
+  546    background-position: -223px -315px;
+  ...
+  549  }
+  550  
+  551: /* line 663, ../sass/_application-logos.scss */
+  552  .streettrees {
+  553    background-position: -552px -538px;
+  ...
+ 2101  /*****************************************************************************/
+ 2102  /*
+ 2103: /* Startup Logos
+ 2104  /*
+ 2105  /*****************************************************************************/
+ 2106: /* line 9, ../sass/_startup-logos.scss */
+ 2107  .startupspop {
+ 2108    background: none;
+ ....
+ 2114  }
+ 2115  
+ 2116: /* line 18, ../sass/_startup-logos.scss */
+ 2117  a.startupspop:hover {
+ 2118    border: none;
+ 2119  }
+ 2120  
+ 2121: /* line 23, ../sass/_startup-logos.scss */
+ 2122  .startupspop.startup_CI {
+ 2123    background-image: url("../img/apps/inverse_civicinsight.png");
+ 2124  }
+ 2125  
+ 2126: /* line 27, ../sass/_startup-logos.scss */
+ 2127  .startupspop.startup_LD {
+ 2128    background-image: url("../img/apps/inverse_localdata.png");
+ 2129  }
+ 2130  
+ 2131: /* line 31, ../sass/_startup-logos.scss */
+ 2132  .startupspop.startup_TZ {
+ 2133    background-image: url("../img/apps/inverse_textizen.png");
+ 2134  }
+ 2135  
+ 2136: /* line 35, ../sass/_startup-logos.scss */
+ 2137  .startupspop.startup_AS {
+ 2138    background-image: url("../img/apps/inverse_archivesocial.png");
+ 2139  }
+ 2140  
+ 2141: /* line 39, ../sass/_startup-logos.scss */
+ 2142  .startupspop.startup_FAF {
+ 2143    background-image: url("../img/apps/inverse_FAF.png");
+ 2144  }
+ 2145  
+ 2146: /* line 43, ../sass/_startup-logos.scss */
+ 2147  .startupspop.startup_OC {
+ 2148    background-image: url("../img/apps/inverse_opencounter.png");
+ 2149  }
+ 2150  
+ 2151: /* line 47, ../sass/_startup-logos.scss */
+ 2152  .startupspop.startup_SP {
+ 2153    background-image: url("../img/apps/inverse_smartprocure.png");
+ 2154  }
+ 2155  
+ 2156: /* line 51, ../sass/_startup-logos.scss */
+ 2157  .startupspop.startup_SC {
+ 2158    background-image: url("../img/apps/inverse_streetcred.png");
+ ....
+ 2547  
+ 2548  /* line 37, ../sass/base.scss */
+ 2549: .logo {
+ 2550    display: block;
+ 2551    margin-left: auto;
+ ....
+ 2554  
+ 2555  /* line 43, ../sass/base.scss */
+ 2556: .logo img {
+ 2557    max-width: 85px;
+ 2558  }
+
+/Users/julia/Documents/Code/Report/js/main.js:
+  462    }, 1000);
+  463    var usTopology;
+  464:   //shows nav when user hovers over the logo
+  465    var height = $(window).height(),
+  466    width = $(window).width();
+
+/Users/julia/Documents/Code/Report/sass/_application-logos.scss:
+    1  /*****************************************************************************/
+    2  /*
+    3: /* Logos
+    4  /*
+    5  /*****************************************************************************/
+    6  
+    7  .appspop {
+    8:   background-image: url('../img/apps_logos.png');
+    9    background-size: 100px;
+   10    float: left;
+   ..
+   46  .scmap,
+   47  .maconmap {
+   48:   background-image: url('../img/apps_logos.png');
+   49    background-size: 100px;
+   50    float: left;
+   ..
+  184  
+  185  // .appspop.bizfriendly {
+  186: //   background-image: url('../img/apps/bizfriendly_logo.jpg');
+  187  // }
+  188  
+  ...
+  192  
+  193  // .appspop.city_voice {
+  194: //   background-image: url('../img/apps/cityvoice_logo.jpg');
+  195  // }
+  196  
+  ...
+  231  // }
+  232  
+  233: // .appspop.faf_logo{
+  234  //   background-image: url('../img/apps/faf.jpg');
+  235  // }
+  ...
+  263  // }
+  264  
+  265: // .appspop.localdata-logo {
+  266: //   background-image: url('../img/apps/localdata-Logo.png');
+  267  // }
+  268  
+  ...
+  348  
+  349  // .appspop.tothetrails {
+  350: //   background-image: url('../img/apps/tothetrails_logo.gif');
+  351  // }
+  352  
+  ...
+  359  // }
+  360  
+  361: .adoptadrain, .adoptatwincities, .alexandriaplays, .archivesocial_sq, .bizfriendly_logo, .cityvoice_logo, .civicinsight, .clickthathood, .councilmatic, .dataquestionnaire, .development_fast_pass, .discoverbpsnew, .early_oakland, .fishstocking, .fllegtracker, .flu_shot_finder, .foodtruckslv, .hampton_roads, .honlulubudget, .lakecraft, .littlelibrariesmadison, .localwiki, .lookatasheville, .mappinggentrification, .nwdata, .oakland_answers, .omgtransit, .openbudgetoak, .opencounter, .oppcaster, .pantry_pickup2, .promptly, .recordtrac, .smartprocure_sq, .smcconnect, .streetcred_logo, .streetcredsq, .streetmix, .textizensmall, .textmybus, .tothetrails_logo, .vermontlibrary, .whatsmydistrict, .wheresmyschoolbus, .ohana_api, .ckan, .faf, .jailpop, .nycccs, .streettrees{
+  362    background: url('../img/apps/appssprites.png') no-repeat;
+  363  }
+  ...
+  387  }
+  388  
+  389: .bizfriendly_logo{
+  390    background-position: -439px -535px ;
+  391    width: 100px;
+  ...
+  393  }
+  394  
+  395: .cityvoice_logo{
+  396    background-position: -220px -531px ;
+  397    width: 100px;
+  ...
+  573  }
+  574  
+  575: .streetcred_logo{
+  576    background-position: -218px -106px ;
+  577    width: 100px;
+  ...
+  603  }
+  604  
+  605: .tothetrails_logo{
+  606    background-position: -680px -2px ;
+  607    width: 100px;
+  ...
+  651  }
+  652  
+  653: .localdatalogo{
+  654:   background-image: url('../img/apps/localdatalogo.png');
+  655  }
+  656  
+
+/Users/julia/Documents/Code/Report/sass/_startup-logos.scss:
+    1  /*****************************************************************************/
+    2  /*
+    3: /* Startup Logos
+    4  /*
+    5  /*****************************************************************************/
+
+/Users/julia/Documents/Code/Report/sass/base.scss:
+    1  @import "compass";
+    2: @import "application-logos";
+    3  @import "backgrounds";
+    4  @import "carousel";
+    .
+    9  @import "map";
+   10  @import "press";
+   11: @import "startup-logos";
+   12  @import "colors";
+   13  @import "typography";
+   ..
+   35  }
+   36  
+   37: .logo {
+   38    display: block;
+   39    margin-left: auto;
+   ..
+   41  }
+   42  
+   43: .logo img {
+   44    max-width: 85px;
+   45  }
+
+281 matches across 19 files
+
+
+Searching 202 files for "logo"
+
+/Users/julia/Documents/Code/Report/index.html:
+    5  
+    6  <div id="loading">
+    7:   <img src="img/CfA_logo_white.png" />
+    8    <h1>2013</h1> 
+    9    <p>Annual Report</p>
+   ..
+   13    <div class="navbar-inner">
+   14      <div class="container">
+   15:       <a class="brand" href="#"><img class="cfalogo" src="img/CFG_Logo-01" alt="Code for America logo" /></a>
+   16        <!-- Everything you want hidden at 940px or less, place within here -->
+   17        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+
+/Users/julia/Documents/Code/Report/_posts/2013-01-11-thanks.html:
+   11  </div>
+   12  <div class="attribution">
+   13: 	<p>Original design <a href="http://2012.codeforamerica.org" target="_blank">created in 2012</a> by: Angel Kittyachavalit, Mick Thompson&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;This report created with help from: &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.postcode.io" target="_blank"><img src="img/postcode_logo.png"></a></p>
+   14  </div>
+   15  
+
+/Users/julia/Documents/Code/Report/_posts/2013-01-19-code-for-all.html:
+    7  section: people
+    8  image: imagecodeforallback
+    9: icon: codeforall_logo
+   10  ---
+   11  
+
+/Users/julia/Documents/Code/Report/_posts/2013-01-20-peer.html:
+    7  section: people
+    8  image: imagepeerback
+    9: icon: peer_logo
+   10  ---
+   11  
+
+/Users/julia/Documents/Code/Report/_posts/2013-01-21-market.html:
+    2  layout: fullpage
+    3  title: Startups
+    4: icon: startup_logo
+    5  bgcolor: 399fd3
+    6  pagetype: story
+
+/Users/julia/Documents/Code/Report/_posts/2013-01-22-brigade.html:
+    8  section: people
+    9  image: imagebrigadeback
+   10: icon: brigade_logo
+   11  ---
+   12  <div class="community themes">
+
+/Users/julia/Documents/Code/Report/_posts/2013-01-23-fellowship.html:
+    8  section: people
+    9  image: imagefellowsback
+   10: icon: fellowship_logo
+   11  ---
+   12  
+
+/Users/julia/Documents/Code/Report/_posts/2013-01-31-applications.html:
+   43        <a class="appspop streetmix" rel="popover" data-toggle="popover" data-content="Lets anyone, anywhere design, remix, and share their street.<br /> <em>Fellowship</em>" data-original-title="Streetmix" href="http://streetmix.net/" target="_blank"></a>
+   44        <a class="appspop jailpop" rel="popover" data-toggle="popover" data-content="Visualizes Louisville metro jail data to aid judges in decision-making.<br /> <em>Fellowship</em>" data-original-title="Jail Population Management Dashboard / Louisville" href="http://www.codeforamerica.org/cities/louisville/" target="_blank"></a>
+   45:       <a class="appspop cityvoice_logo" rel="popover" data-toggle="popover" data-content="Gives residents a say about vacant and abandoned properties.<br /> <em>Fellowship</em>" data-original-title="City Voice / South Bend" href="http://www.cityvoiceapp.com/" target="_blank"></a>
+   46:       <a class="appspop bizfriendly_logo" rel="popover" data-toggle="popover" data-content="Teaches modern web tools to business owners.<br /> <em>Fellowship</em>" data-original-title="BizFriendly / Kansas City" href="http://bizfriend.ly/" target="_blank"></a>
+   47        <a class="appspop clickthathood" rel="popover" data-toggle="popover" data-content="An educational geography game being played in 86 cities in 11 countries.<br /> <em>Fellowship</em>" data-original-title="Click That 'Hood" href="http://click-that-hood.com/" target="_blank"></a>
+   48        <a class="appspop nycccs" rel="popover" data-toggle="popover" data-content="Helps judges better direct defendants to alternative incarceration programs.<br /> <em>Fellowship</em>" data-original-title="Criminal Case Search / New York" href="http://codeforamerica.org/cities/newyork/" target="_blank"></a>
+   49        <a class="appspop development_fast_pass" rel="popover" data-toggle="popover" data-content="Educates business owners on zoning and land use information.<br /> <em>Fellowship</em>" data-original-title="Development Fast Pass / Las Vegas" href="http://lv-dof-staging.herokuapp.com/#/" target="_blank"></a>
+   50:       <a class="appspop tothetrails_logo" rel="popover" data-toggle="popover" data-content="Helps hikers navigate the trails and terrain.<br /> <em>Fellowship</em>" data-original-title="To the Trails / Summit County" href="http://www.tothetrails.com/" target="_blank"></a>
+   51        <a class="appspop oppcaster" rel="popover" data-toggle="popover" data-content="Informs interested businesses about contracting opportunities.<br /> <em>Fellowship</em>" data-original-title="OppCaster / South Bend" href="http://www.oppcaster.com/" target="_blank"></a>
+   52        <a class="appspop foodtruckslv" rel="popover" data-toggle="popover" data-content="Provides real-time food truck information. The first app of its kind.<br /> <em>Fellowship</em>" data-original-title="Food Truck App / Las Vegas" href="http://www.lasvegasnevada.gov/foodtruck/" target="_blank"></a>
+   ..
+   94        <a class="appspop textmybus" rel="popover" data-toggle="popover" data-content="The 2012 Detroit Fellows built TextMyBus, which has scaled to thousands of users across the city who use it on a daily basis to check the arrival times of their buses.  <br /> <em>Fellowship</em>" data-original-title="TextMyBus" href="http://textmybus.com/" target="_blank"></a>
+   95        <a class="appspop textizen" rel="popover" data-toggle="popover" data-content="First built during the 2012 Fellowship, Textizen is now a civic startup with a product live in nine communities.<br /> <em>Fellowship, Incubator</em>" data-original-title="Textizen" href="http://textizen.com/" target="_blank"></a>
+   96:       <a class="appspop localdatalogo" rel="popover" data-toggle="popover" data-content="First built during the 2012 Fellowship, LocalData makes it easy for communities to collect neighborhood data to improve decisionmaking.<br /> <em>Fellowship, Incubator</em>" data-original-title="LocalData" href="http://localdata.com/" target="_blank"></a>
+   97        <a class="appspop civicinsight" rel="popover" data-toggle="popover" data-content="Civic Insight is an update of BlightStatus, built during the 2012 Fellowship. It shares real-time data about properties, like permitting and blight abatement.<br /> <em>Fellowship, Incubator</em>" data-original-title="Civic Insight" href="http://civicinsight.com/" target="_blank"></a>
+   98        <a class="appspop wheresmyschoolbus" rel="popover" data-toggle="popover" data-content="Created by the 2011 Fellows, this app allows parents to track their child’s school bus in real time.<br /> <em>Fellowship</em>" data-original-title="Where's My School Bus?" href="https://schoolbus.bostonpublicschools.org/" target="_blank"></a>
+
+/Users/julia/Documents/Code/Report/_site/index.html:
+   32    <div id="content">
+   33      <div id="loading">
+   34:   <img src="img/CfA_logo_white.png" />
+   35    <h1>2013</h1> 
+   36    <p>Annual Report</p>
+   ..
+   40    <div class="navbar-inner">
+   41      <div class="container">
+   42:       <a class="brand" href="#"><img class="cfalogo" src="img/cfa_logo.png" alt="Code for America logo" /></a>
+   43        <!-- Everything you want hidden at 940px or less, place within here -->
+   44        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+   ..
+  448        <h2>Fellowship <br/>
+  449        
+  450:         <img src="img/fellowship_logo.png"/>
+  451        
+  452        </h2>
+  ...
+  462        <h2>Brigade <br/>
+  463        
+  464:         <img src="img/brigade_logo.png"/>
+  465        
+  466        </h2>
+  ...
+  476        <h2>Startups <br/>
+  477        
+  478:         <img src="img/startup_logo.png"/>
+  479        
+  480        </h2>
+  ...
+  490        <h2>Peer <br>highlights <br/>
+  491        
+  492:         <img src="img/peer_logo.png"/>
+  493        
+  494        </h2>
+  ...
+  504        <h2>Code <br>for All <br/>
+  505        
+  506:         <img src="img/codeforall_logo.png"/>
+  507        
+  508        </h2>
+  ...
+  964        <a class="appspop streetmix" rel="popover" data-toggle="popover" data-content="Lets anyone, anywhere design, remix, and share their street.<br /> <em>Fellowship</em>" data-original-title="Streetmix" href="http://streetmix.net/" target="_blank"></a>
+  965        <a class="appspop jailpop" rel="popover" data-toggle="popover" data-content="Visualizes Louisville metro jail data to aid judges in decision-making.<br /> <em>Fellowship</em>" data-original-title="Jail Population Management Dashboard / Louisville" href="http://www.codeforamerica.org/cities/louisville/" target="_blank"></a>
+  966:       <a class="appspop cityvoice_logo" rel="popover" data-toggle="popover" data-content="Gives residents a say about vacant and abandoned properties.<br /> <em>Fellowship</em>" data-original-title="City Voice / South Bend" href="http://www.cityvoiceapp.com/" target="_blank"></a>
+  967:       <a class="appspop bizfriendly_logo" rel="popover" data-toggle="popover" data-content="Teaches modern web tools to business owners.<br /> <em>Fellowship</em>" data-original-title="BizFriendly / Kansas City" href="http://bizfriend.ly/" target="_blank"></a>
+  968        <a class="appspop clickthathood" rel="popover" data-toggle="popover" data-content="An educational geography game being played in 86 cities in 11 countries.<br /> <em>Fellowship</em>" data-original-title="Click That 'Hood" href="http://click-that-hood.com/" target="_blank"></a>
+  969        <a class="appspop nycccs" rel="popover" data-toggle="popover" data-content="Helps judges better direct defendants to alternative incarceration programs.<br /> <em>Fellowship</em>" data-original-title="Criminal Case Search / New York" href="http://codeforamerica.org/cities/newyork/" target="_blank"></a>
+  970        <a class="appspop development_fast_pass" rel="popover" data-toggle="popover" data-content="Educates business owners on zoning and land use information.<br /> <em>Fellowship</em>" data-original-title="Development Fast Pass / Las Vegas" href="http://lv-dof-staging.herokuapp.com/#/" target="_blank"></a>
+  971:       <a class="appspop tothetrails_logo" rel="popover" data-toggle="popover" data-content="Helps hikers navigate the trails and terrain.<br /> <em>Fellowship</em>" data-original-title="To the Trails / Summit County" href="http://www.tothetrails.com/" target="_blank"></a>
+  972        <a class="appspop oppcaster" rel="popover" data-toggle="popover" data-content="Informs interested businesses about contracting opportunities.<br /> <em>Fellowship</em>" data-original-title="OppCaster / South Bend" href="http://www.oppcaster.com/" target="_blank"></a>
+  973        <a class="appspop foodtruckslv" rel="popover" data-toggle="popover" data-content="Provides real-time food truck information. The first app of its kind.<br /> <em>Fellowship</em>" data-original-title="Food Truck App / Las Vegas" href="http://www.lasvegasnevada.gov/foodtruck/" target="_blank"></a>
+  ...
+ 1015        <a class="appspop textmybus" rel="popover" data-toggle="popover" data-content="The 2012 Detroit Fellows built TextMyBus, which has scaled to thousands of users across the city who use it on a daily basis to check the arrival times of their buses.  <br /> <em>Fellowship</em>" data-original-title="TextMyBus" href="http://textmybus.com/" target="_blank"></a>
+ 1016        <a class="appspop textizen" rel="popover" data-toggle="popover" data-content="First built during the 2012 Fellowship, Textizen is now a civic startup with a product live in nine communities.<br /> <em>Fellowship, Incubator</em>" data-original-title="Textizen" href="http://textizen.com/" target="_blank"></a>
+ 1017:       <a class="appspop localdatalogo" rel="popover" data-toggle="popover" data-content="First built during the 2012 Fellowship, LocalData makes it easy for communities to collect neighborhood data to improve decisionmaking.<br /> <em>Fellowship, Incubator</em>" data-original-title="LocalData" href="http://localdata.com/" target="_blank"></a>
+ 1018        <a class="appspop civicinsight" rel="popover" data-toggle="popover" data-content="Civic Insight is an update of BlightStatus, built during the 2012 Fellowship. It shares real-time data about properties, like permitting and blight abatement.<br /> <em>Fellowship, Incubator</em>" data-original-title="Civic Insight" href="http://civicinsight.com/" target="_blank"></a>
+ 1019        <a class="appspop wheresmyschoolbus" rel="popover" data-toggle="popover" data-content="Created by the 2011 Fellows, this app allows parents to track their child’s school bus in real time.<br /> <em>Fellowship</em>" data-original-title="Where's My School Bus?" href="https://schoolbus.bostonpublicschools.org/" target="_blank"></a>
+ ....
+ 3147  
+ 3148  <div class="attribution">
+ 3149:     <p>Original design <a href="http://2012.codeforamerica.org" target="_blank">created in 2012</a> by: Angel Kittyachavalit, Mick Thompson&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;This report created with help from: &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.postcode.io" target="_blank"><img src="img/postcode_logo.png"></a></p>
+ 3150  </div>
+ 3151  
+
+/Users/julia/Documents/Code/Report/_site/2013/01/11/thanks/index.html:
+   35  </div>
+   36  <div class="attribution">
+   37: 	<p>Original design <a href="http://2012.codeforamerica.org" target="_blank">created in 2012</a> by: Angel Kittyachavalit, Mick Thompson&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;This report created with help from: &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.postcode.io" target="_blank"><img src="img/postcode_logo.png"></a></p>
+   38  </div>
+   39  
+
+/Users/julia/Documents/Code/Report/_site/2013/01/31/applications/index.html:
+   64        <a class="appspop streetmix" rel="popover" data-toggle="popover" data-content="Lets anyone, anywhere design, remix, and share their street.<br /> <em>Fellowship</em>" data-original-title="Streetmix" href="http://streetmix.net/" target="_blank"></a>
+   65        <a class="appspop jailpop" rel="popover" data-toggle="popover" data-content="Visualizes Louisville metro jail data to aid judges in decision-making.<br /> <em>Fellowship</em>" data-original-title="Jail Population Management Dashboard / Louisville" href="http://www.codeforamerica.org/cities/louisville/" target="_blank"></a>
+   66:       <a class="appspop cityvoice_logo" rel="popover" data-toggle="popover" data-content="Gives residents a say about vacant and abandoned properties.<br /> <em>Fellowship</em>" data-original-title="City Voice / South Bend" href="http://www.cityvoiceapp.com/" target="_blank"></a>
+   67:       <a class="appspop bizfriendly_logo" rel="popover" data-toggle="popover" data-content="Teaches modern web tools to business owners.<br /> <em>Fellowship</em>" data-original-title="BizFriendly / Kansas City" href="http://bizfriend.ly/" target="_blank"></a>
+   68        <a class="appspop clickthathood" rel="popover" data-toggle="popover" data-content="An educational geography game being played in 86 cities in 11 countries.<br /> <em>Fellowship</em>" data-original-title="Click That 'Hood" href="http://click-that-hood.com/" target="_blank"></a>
+   69        <a class="appspop nycccs" rel="popover" data-toggle="popover" data-content="Helps judges better direct defendants to alternative incarceration programs.<br /> <em>Fellowship</em>" data-original-title="Criminal Case Search / New York" href="http://codeforamerica.org/cities/newyork/" target="_blank"></a>
+   70        <a class="appspop development_fast_pass" rel="popover" data-toggle="popover" data-content="Educates business owners on zoning and land use information.<br /> <em>Fellowship</em>" data-original-title="Development Fast Pass / Las Vegas" href="http://lv-dof-staging.herokuapp.com/#/" target="_blank"></a>
+   71:       <a class="appspop tothetrails_logo" rel="popover" data-toggle="popover" data-content="Helps hikers navigate the trails and terrain.<br /> <em>Fellowship</em>" data-original-title="To the Trails / Summit County" href="http://www.tothetrails.com/" target="_blank"></a>
+   72        <a class="appspop oppcaster" rel="popover" data-toggle="popover" data-content="Informs interested businesses about contracting opportunities.<br /> <em>Fellowship</em>" data-original-title="OppCaster / South Bend" href="http://www.oppcaster.com/" target="_blank"></a>
+   73        <a class="appspop foodtruckslv" rel="popover" data-toggle="popover" data-content="Provides real-time food truck information. The first app of its kind.<br /> <em>Fellowship</em>" data-original-title="Food Truck App / Las Vegas" href="http://www.lasvegasnevada.gov/foodtruck/" target="_blank"></a>
+   ..
+  115        <a class="appspop textmybus" rel="popover" data-toggle="popover" data-content="The 2012 Detroit Fellows built TextMyBus, which has scaled to thousands of users across the city who use it on a daily basis to check the arrival times of their buses.  <br /> <em>Fellowship</em>" data-original-title="TextMyBus" href="http://textmybus.com/" target="_blank"></a>
+  116        <a class="appspop textizen" rel="popover" data-toggle="popover" data-content="First built during the 2012 Fellowship, Textizen is now a civic startup with a product live in nine communities.<br /> <em>Fellowship, Incubator</em>" data-original-title="Textizen" href="http://textizen.com/" target="_blank"></a>
+  117:       <a class="appspop localdatalogo" rel="popover" data-toggle="popover" data-content="First built during the 2012 Fellowship, LocalData makes it easy for communities to collect neighborhood data to improve decisionmaking.<br /> <em>Fellowship, Incubator</em>" data-original-title="LocalData" href="http://localdata.com/" target="_blank"></a>
+  118        <a class="appspop civicinsight" rel="popover" data-toggle="popover" data-content="Civic Insight is an update of BlightStatus, built during the 2012 Fellowship. It shares real-time data about properties, like permitting and blight abatement.<br /> <em>Fellowship, Incubator</em>" data-original-title="Civic Insight" href="http://civicinsight.com/" target="_blank"></a>
+  119        <a class="appspop wheresmyschoolbus" rel="popover" data-toggle="popover" data-content="Created by the 2011 Fellows, this app allows parents to track their child’s school bus in real time.<br /> <em>Fellowship</em>" data-original-title="Where's My School Bus?" href="https://schoolbus.bostonpublicschools.org/" target="_blank"></a>
+
+/Users/julia/Documents/Code/Report/_site/css/base.css:
+    1  /*****************************************************************************/
+    2  /*
+    3: /* Logos
+    4  /*
+    5  /*****************************************************************************/
+    6: /* line 7, ../sass/_application-logos.scss */
+    7  .appspop {
+    8:   background-image: url("../img/apps_logos.png");
+    9    background-size: 100px;
+   10    float: left;
+   ..
+   14  }
+   15  
+   16: /* line 16, ../sass/_application-logos.scss */
+   17  a.appspop:hover {
+   18    border: none;
+   19  }
+   20  
+   21: /* line 47, ../sass/_application-logos.scss */
+   22  .srtracker,
+   23  .fm,
+   ..
+   48  .scmap,
+   49  .maconmap {
+   50:   background-image: url("../img/apps_logos.png");
+   51    background-size: 100px;
+   52    float: left;
+   ..
+   56  }
+   57  
+   58: /* line 56, ../sass/_application-logos.scss */
+   59  .srtracker {
+   60    background-position: 0 0;
+   61  }
+   62  
+   63: /* line 60, ../sass/_application-logos.scss */
+   64  .fm {
+   65    background-position: 0 -100px;
+   66  }
+   67  
+   68: /* line 64, ../sass/_application-logos.scss */
+   69  .labs {
+   70    background-position: 0 -200px;
+   71  }
+   72  
+   73: /* line 68, ../sass/_application-logos.scss */
+   74  .adopta {
+   75    background-position: 0 -300px;
+   76  }
+   77  
+   78: /* line 72, ../sass/_application-logos.scss */
+   79  .blight {
+   80    background-position: 0 -400px;
+   81  }
+   82  
+   83: /* line 76, ../sass/_application-logos.scss */
+   84  .blockee {
+   85    background-position: 0 -500px;
+   86  }
+   87  
+   88: /* line 80, ../sass/_application-logos.scss */
+   89  .hnlanswers {
+   90    background-position: 0 -600px;
+   91  }
+   92  
+   93: /* line 84, ../sass/_application-logos.scss */
+   94  .localdata {
+   95    background-position: 0 -700px;
+   96  }
+   97  
+   98: /* line 88, ../sass/_application-logos.scss */
+   99  .neighborhow {
+  100    background-position: 0 -800px;
+  101  }
+  102  
+  103: /* line 92, ../sass/_application-logos.scss */
+  104  .opencounter {
+  105    background-position: 0 -900px;
+  106  }
+  107  
+  108: /* line 96, ../sass/_application-logos.scss */
+  109  .openstatus {
+  110    background-position: 0 -1000px;
+  111  }
+  112  
+  113: /* line 100, ../sass/_application-logos.scss */
+  114  .preparedly {
+  115    background-position: 0 -1100px;
+  116  }
+  117  
+  118: /* line 104, ../sass/_application-logos.scss */
+  119  .routeview {
+  120    background-position: 0 -1200px;
+  121  }
+  122  
+  123: /* line 108, ../sass/_application-logos.scss */
+  124  .opendata {
+  125    background-position: 0 -1300px;
+  126  }
+  127  
+  128: /* line 112, ../sass/_application-logos.scss */
+  129  .socialcity {
+  130    background-position: 0 -1400px;
+  131  }
+  132  
+  133: /* line 116, ../sass/_application-logos.scss */
+  134  .pennywork {
+  135    background-position: 0 -1500px;
+  136  }
+  137  
+  138: /* line 120, ../sass/_application-logos.scss */
+  139  .straymapper {
+  140    background-position: 0 -1600px;
+  141  }
+  142  
+  143: /* line 124, ../sass/_application-logos.scss */
+  144  .supermayor {
+  145    background-position: 0 -1700px;
+  146  }
+  147  
+  148: /* line 128, ../sass/_application-logos.scss */
+  149  .textmybus {
+  150    background-position: 0 -1800px;
+  151  }
+  152  
+  153: /* line 132, ../sass/_application-logos.scss */
+  154  .textizen {
+  155    background-position: 0 -1900px;
+  156  }
+  157  
+  158: /* line 136, ../sass/_application-logos.scss */
+  159  .dailybrief {
+  160    background-position: 0 -2000px;
+  161  }
+  162  
+  163: /* line 140, ../sass/_application-logos.scss */
+  164  .nolaready {
+  165    background-position: 0 -2100px;
+  166  }
+  167  
+  168: /* line 144, ../sass/_application-logos.scss */
+  169  .atxfloods {
+  170    background-position: 0 -2200px;
+  171  }
+  172  
+  173: /* line 148, ../sass/_application-logos.scss */
+  174  .bike {
+  175    background-position: 0 -2300px;
+  176  }
+  177  
+  178: /* line 152, ../sass/_application-logos.scss */
+  179  .deepdish {
+  180    background-position: 0 -2400px;
+  181  }
+  182  
+  183: /* line 156, ../sass/_application-logos.scss */
+  184  .publicart {
+  185    background-position: 0 -2500px;
+  186  }
+  187  
+  188: /* line 160, ../sass/_application-logos.scss */
+  189  .scmap {
+  190    background-position: 0 -2600px;
+  191  }
+  192  
+  193: /* line 164, ../sass/_application-logos.scss */
+  194  .maconmap {
+  195    background-position: 0 -2700px;
+  196  }
+  197  
+  198: /* line 361, ../sass/_application-logos.scss */
+  199: .adoptadrain, .adoptatwincities, .alexandriaplays, .archivesocial_sq, .bizfriendly_logo, .cityvoice_logo, .civicinsight, .clickthathood, .councilmatic, .dataquestionnaire, .development_fast_pass, .discoverbpsnew, .early_oakland, .fishstocking, .fllegtracker, .flu_shot_finder, .foodtruckslv, .hampton_roads, .honlulubudget, .lakecraft, .littlelibrariesmadison, .localwiki, .lookatasheville, .mappinggentrification, .nwdata, .oakland_answers, .omgtransit, .openbudgetoak, .opencounter, .oppcaster, .pantry_pickup2, .promptly, .recordtrac, .smartprocure_sq, .smcconnect, .streetcred_logo, .streetcredsq, .streetmix, .textizensmall, .textmybus, .tothetrails_logo, .vermontlibrary, .whatsmydistrict, .wheresmyschoolbus, .ohana_api, .ckan, .faf, .jailpop, .nycccs, .streettrees {
+  200    background: url("../img/apps/appssprites.png") no-repeat;
+  201  }
+  202  
+  203: /* line 365, ../sass/_application-logos.scss */
+  204  .adoptadrain {
+  205    background-position: 0 0;
+  ...
+  208  }
+  209  
+  210: /* line 371, ../sass/_application-logos.scss */
+  211  .adoptatwincities {
+  212    background-position: -109px -1px;
+  ...
+  215  }
+  216  
+  217: /* line 377, ../sass/_application-logos.scss */
+  218  .alexandriaplays {
+  219    background-position: -353px 0;
+  ...
+  222  }
+  223  
+  224: /* line 383, ../sass/_application-logos.scss */
+  225  .archivesocial_sq {
+  226    background-position: -113px -424px;
+  ...
+  229  }
+  230  
+  231: /* line 389, ../sass/_application-logos.scss */
+  232: .bizfriendly_logo {
+  233    background-position: -439px -535px;
+  234    width: 100px;
+  ...
+  236  }
+  237  
+  238: /* line 395, ../sass/_application-logos.scss */
+  239: .cityvoice_logo {
+  240    background-position: -220px -531px;
+  241    width: 100px;
+  ...
+  243  }
+  244  
+  245: /* line 401, ../sass/_application-logos.scss */
+  246  .civicinsight {
+  247    background-position: -326px -538px;
+  ...
+  250  }
+  251  
+  252: /* line 407, ../sass/_application-logos.scss */
+  253  .clickthathood {
+  254    background-position: -111px -532px;
+  ...
+  257  }
+  258  
+  259: /* line 413, ../sass/_application-logos.scss */
+  260  .councilmatic {
+  261    background-position: -333px -425px;
+  ...
+  264  }
+  265  
+  266: /* line 419, ../sass/_application-logos.scss */
+  267  .dataquestionnaire {
+  268    background-position: -2px -530px;
+  ...
+  271  }
+  272  
+  273: /* line 425, ../sass/_application-logos.scss */
+  274  .development_fast_pass {
+  275    background-position: -552px -429px;
+  ...
+  278  }
+  279  
+  280: /* line 431, ../sass/_application-logos.scss */
+  281  .discoverbpsnew {
+  282    background-position: -662px -422px;
+  ...
+  285  }
+  286  
+  287: /* line 437, ../sass/_application-logos.scss */
+  288  .early_oakland {
+  289    background-position: -778px -417px;
+  ...
+  292  }
+  293  
+  294: /* line 443, ../sass/_application-logos.scss */
+  295  .fishstocking {
+  296    background-position: -442px -427px;
+  ...
+  299  }
+  300  
+  301: /* line 449, ../sass/_application-logos.scss */
+  302  .fllegtracker {
+  303    background-position: -767px -314px;
+  ...
+  306  }
+  307  
+  308: /* line 455, ../sass/_application-logos.scss */
+  309  .flu_shot_finder {
+  310    background-position: -445px -322px;
+  ...
+  313  }
+  314  
+  315: /* line 461, ../sass/_application-logos.scss */
+  316  .foodtruckslv {
+  317    background-position: -418px -215px;
+  ...
+  320  }
+  321  
+  322: /* line 467, ../sass/_application-logos.scss */
+  323  .hampton_roads {
+  324    background-position: -333px -317px;
+  ...
+  327  }
+  328  
+  329: /* line 473, ../sass/_application-logos.scss */
+  330  .honlulubudget {
+  331    background-position: -554px -322px;
+  ...
+  334  }
+  335  
+  336: /* line 479, ../sass/_application-logos.scss */
+  337  .lakecraft {
+  338    background-position: -662px -319px;
+  ...
+  341  }
+  342  
+  343: /* line 485, ../sass/_application-logos.scss */
+  344  .littlelibrariesmadison {
+  345    background-position: -110px -311px;
+  ...
+  348  }
+  349  
+  350: /* line 491, ../sass/_application-logos.scss */
+  351  .localwiki {
+  352    background-position: -942px -210px;
+  ...
+  355  }
+  356  
+  357: /* line 497, ../sass/_application-logos.scss */
+  358  .lookatasheville {
+  359    background-position: -832px -208px;
+  ...
+  362  }
+  363  
+  364: /* line 503, ../sass/_application-logos.scss */
+  365  .mappinggentrification {
+  366    background-position: -660px -214px;
+  ...
+  369  }
+  370  
+  371: /* line 509, ../sass/_application-logos.scss */
+  372  .nwdata {
+  373    background-position: -527px -213px;
+  ...
+  376  }
+  377  
+  378: /* line 515, ../sass/_application-logos.scss */
+  379  .oakland_answers {
+  380    background-position: -310px -207px;
+  ...
+  383  }
+  384  
+  385: /* line 521, ../sass/_application-logos.scss */
+  386  .omgtransit {
+  387    background-position: -102px -204px;
+  ...
+  390  }
+  391  
+  392: /* line 527, ../sass/_application-logos.scss */
+  393  .openbudgetoak {
+  394    background-position: 0 -204px;
+  ...
+  397  }
+  398  
+  399: /* line 533, ../sass/_application-logos.scss */
+  400  .opencounter {
+  401    background-position: -899px -424px;
+  ...
+  404  }
+  405  
+  406: /* line 539, ../sass/_application-logos.scss */
+  407  .oppcaster {
+  408    background-position: -874px -102px;
+  ...
+  411  }
+  412  
+  413: /* line 545, ../sass/_application-logos.scss */
+  414  .pantry_pickup2 {
+  415    background-position: -748px -103px;
+  ...
+  418  }
+  419  
+  420: /* line 551, ../sass/_application-logos.scss */
+  421  .promptly {
+  422    background-position: -637px -107px;
+  ...
+  425  }
+  426  
+  427: /* line 557, ../sass/_application-logos.scss */
+  428  .recordtrac {
+  429    background-position: -527px -109px;
+  ...
+  432  }
+  433  
+  434: /* line 563, ../sass/_application-logos.scss */
+  435  .smartprocure_sq {
+  436    background-position: -425px -106px;
+  ...
+  439  }
+  440  
+  441: /* line 569, ../sass/_application-logos.scss */
+  442  .smcconnect {
+  443    background-position: -322px -106px;
+  ...
+  446  }
+  447  
+  448: /* line 575, ../sass/_application-logos.scss */
+  449: .streetcred_logo {
+  450    background-position: -218px -106px;
+  451    width: 100px;
+  ...
+  453  }
+  454  
+  455: /* line 581, ../sass/_application-logos.scss */
+  456  .streetcredsq {
+  457    background-position: -107px -100px;
+  ...
+  460  }
+  461  
+  462: /* line 587, ../sass/_application-logos.scss */
+  463  .streetmix {
+  464    background-position: 0 -102px;
+  ...
+  467  }
+  468  
+  469: /* line 593, ../sass/_application-logos.scss */
+  470  .textizensmall {
+  471    background-position: -902px 0;
+  ...
+  474  }
+  475  
+  476: /* line 599, ../sass/_application-logos.scss */
+  477  .textmybus {
+  478    background-position: -792px 0;
+  ...
+  481  }
+  482  
+  483: /* line 605, ../sass/_application-logos.scss */
+  484: .tothetrails_logo {
+  485    background-position: -680px -2px;
+  486    width: 100px;
+  ...
+  488  }
+  489  
+  490: /* line 611, ../sass/_application-logos.scss */
+  491  .vermontlibrary {
+  492    background-position: -578px -3px;
+  ...
+  495  }
+  496  
+  497: /* line 617, ../sass/_application-logos.scss */
+  498  .whatsmydistrict {
+  499    background-position: -470px -4px;
+  ...
+  502  }
+  503  
+  504: /* line 623, ../sass/_application-logos.scss */
+  505  .wheresmyschoolbus {
+  506    background-position: -229px -2px;
+  ...
+  509  }
+  510  
+  511: /* line 629, ../sass/_application-logos.scss */
+  512  .ohana_api {
+  513    background-position: -206px -207px;
+  ...
+  516  }
+  517  
+  518: /* line 635, ../sass/_application-logos.scss */
+  519  .ckan {
+  520    background-position: -2px -426px;
+  ...
+  523  }
+  524  
+  525: /* line 641, ../sass/_application-logos.scss */
+  526  .faf {
+  527    background-position: -872px -317px;
+  ...
+  530  }
+  531  
+  532: /* line 647, ../sass/_application-logos.scss */
+  533  .jailpop {
+  534    background-position: -222px -422px;
+  ...
+  537  }
+  538  
+  539: /* line 653, ../sass/_application-logos.scss */
+  540: .localdatalogo {
+  541:   background-image: url("../img/apps/localdatalogo.png");
+  542  }
+  543  
+  544: /* line 657, ../sass/_application-logos.scss */
+  545  .nycccs {
+  546    background-position: -223px -315px;
+  ...
+  549  }
+  550  
+  551: /* line 663, ../sass/_application-logos.scss */
+  552  .streettrees {
+  553    background-position: -552px -538px;
+  ...
+ 2101  /*****************************************************************************/
+ 2102  /*
+ 2103: /* Startup Logos
+ 2104  /*
+ 2105  /*****************************************************************************/
+ 2106: /* line 9, ../sass/_startup-logos.scss */
+ 2107  .startupspop {
+ 2108    background: none;
+ ....
+ 2114  }
+ 2115  
+ 2116: /* line 18, ../sass/_startup-logos.scss */
+ 2117  a.startupspop:hover {
+ 2118    border: none;
+ 2119  }
+ 2120  
+ 2121: /* line 23, ../sass/_startup-logos.scss */
+ 2122  .startupspop.startup_CI {
+ 2123    background-image: url("../img/apps/inverse_civicinsight.png");
+ 2124  }
+ 2125  
+ 2126: /* line 27, ../sass/_startup-logos.scss */
+ 2127  .startupspop.startup_LD {
+ 2128    background-image: url("../img/apps/inverse_localdata.png");
+ 2129  }
+ 2130  
+ 2131: /* line 31, ../sass/_startup-logos.scss */
+ 2132  .startupspop.startup_TZ {
+ 2133    background-image: url("../img/apps/inverse_textizen.png");
+ 2134  }
+ 2135  
+ 2136: /* line 35, ../sass/_startup-logos.scss */
+ 2137  .startupspop.startup_AS {
+ 2138    background-image: url("../img/apps/inverse_archivesocial.png");
+ 2139  }
+ 2140  
+ 2141: /* line 39, ../sass/_startup-logos.scss */
+ 2142  .startupspop.startup_FAF {
+ 2143    background-image: url("../img/apps/inverse_FAF.png");
+ 2144  }
+ 2145  
+ 2146: /* line 43, ../sass/_startup-logos.scss */
+ 2147  .startupspop.startup_OC {
+ 2148    background-image: url("../img/apps/inverse_opencounter.png");
+ 2149  }
+ 2150  
+ 2151: /* line 47, ../sass/_startup-logos.scss */
+ 2152  .startupspop.startup_SP {
+ 2153    background-image: url("../img/apps/inverse_smartprocure.png");
+ 2154  }
+ 2155  
+ 2156: /* line 51, ../sass/_startup-logos.scss */
+ 2157  .startupspop.startup_SC {
+ 2158    background-image: url("../img/apps/inverse_streetcred.png");
+ ....
+ 2547  
+ 2548  /* line 37, ../sass/base.scss */
+ 2549: .logo {
+ 2550    display: block;
+ 2551    margin-left: auto;
+ ....
+ 2554  
+ 2555  /* line 43, ../sass/base.scss */
+ 2556: .logo img {
+ 2557    max-width: 85px;
+ 2558  }
+
+/Users/julia/Documents/Code/Report/_site/js/main.js:
+  462    }, 1000);
+  463    var usTopology;
+  464:   //shows nav when user hovers over the logo
+  465    var height = $(window).height(),
+  466    width = $(window).width();
+
+/Users/julia/Documents/Code/Report/_site/sass/base.scss:
+    1  @import "compass";
+    2: @import "application-logos";
+    3  @import "backgrounds";
+    4  @import "carousel";
+    .
+    9  @import "map";
+   10  @import "press";
+   11: @import "startup-logos";
+   12  @import "colors";
+   13  @import "typography";
+   ..
+   35  }
+   36  
+   37: .logo {
+   38    display: block;
+   39    margin-left: auto;
+   ..
+   41  }
+   42  
+   43: .logo img {
+   44    max-width: 85px;
+   45  }
+
+/Users/julia/Documents/Code/Report/css/base.css:
+    1  /*****************************************************************************/
+    2  /*
+    3: /* Logos
+    4  /*
+    5  /*****************************************************************************/
+    6: /* line 7, ../sass/_application-logos.scss */
+    7  .appspop {
+    8:   background-image: url("../img/apps_logos.png");
+    9    background-size: 100px;
+   10    float: left;
+   ..
+   14  }
+   15  
+   16: /* line 16, ../sass/_application-logos.scss */
+   17  a.appspop:hover {
+   18    border: none;
+   19  }
+   20  
+   21: /* line 47, ../sass/_application-logos.scss */
+   22  .srtracker,
+   23  .fm,
+   ..
+   48  .scmap,
+   49  .maconmap {
+   50:   background-image: url("../img/apps_logos.png");
+   51    background-size: 100px;
+   52    float: left;
+   ..
+   56  }
+   57  
+   58: /* line 56, ../sass/_application-logos.scss */
+   59  .srtracker {
+   60    background-position: 0 0;
+   61  }
+   62  
+   63: /* line 60, ../sass/_application-logos.scss */
+   64  .fm {
+   65    background-position: 0 -100px;
+   66  }
+   67  
+   68: /* line 64, ../sass/_application-logos.scss */
+   69  .labs {
+   70    background-position: 0 -200px;
+   71  }
+   72  
+   73: /* line 68, ../sass/_application-logos.scss */
+   74  .adopta {
+   75    background-position: 0 -300px;
+   76  }
+   77  
+   78: /* line 72, ../sass/_application-logos.scss */
+   79  .blight {
+   80    background-position: 0 -400px;
+   81  }
+   82  
+   83: /* line 76, ../sass/_application-logos.scss */
+   84  .blockee {
+   85    background-position: 0 -500px;
+   86  }
+   87  
+   88: /* line 80, ../sass/_application-logos.scss */
+   89  .hnlanswers {
+   90    background-position: 0 -600px;
+   91  }
+   92  
+   93: /* line 84, ../sass/_application-logos.scss */
+   94  .localdata {
+   95    background-position: 0 -700px;
+   96  }
+   97  
+   98: /* line 88, ../sass/_application-logos.scss */
+   99  .neighborhow {
+  100    background-position: 0 -800px;
+  101  }
+  102  
+  103: /* line 92, ../sass/_application-logos.scss */
+  104  .opencounter {
+  105    background-position: 0 -900px;
+  106  }
+  107  
+  108: /* line 96, ../sass/_application-logos.scss */
+  109  .openstatus {
+  110    background-position: 0 -1000px;
+  111  }
+  112  
+  113: /* line 100, ../sass/_application-logos.scss */
+  114  .preparedly {
+  115    background-position: 0 -1100px;
+  116  }
+  117  
+  118: /* line 104, ../sass/_application-logos.scss */
+  119  .routeview {
+  120    background-position: 0 -1200px;
+  121  }
+  122  
+  123: /* line 108, ../sass/_application-logos.scss */
+  124  .opendata {
+  125    background-position: 0 -1300px;
+  126  }
+  127  
+  128: /* line 112, ../sass/_application-logos.scss */
+  129  .socialcity {
+  130    background-position: 0 -1400px;
+  131  }
+  132  
+  133: /* line 116, ../sass/_application-logos.scss */
+  134  .pennywork {
+  135    background-position: 0 -1500px;
+  136  }
+  137  
+  138: /* line 120, ../sass/_application-logos.scss */
+  139  .straymapper {
+  140    background-position: 0 -1600px;
+  141  }
+  142  
+  143: /* line 124, ../sass/_application-logos.scss */
+  144  .supermayor {
+  145    background-position: 0 -1700px;
+  146  }
+  147  
+  148: /* line 128, ../sass/_application-logos.scss */
+  149  .textmybus {
+  150    background-position: 0 -1800px;
+  151  }
+  152  
+  153: /* line 132, ../sass/_application-logos.scss */
+  154  .textizen {
+  155    background-position: 0 -1900px;
+  156  }
+  157  
+  158: /* line 136, ../sass/_application-logos.scss */
+  159  .dailybrief {
+  160    background-position: 0 -2000px;
+  161  }
+  162  
+  163: /* line 140, ../sass/_application-logos.scss */
+  164  .nolaready {
+  165    background-position: 0 -2100px;
+  166  }
+  167  
+  168: /* line 144, ../sass/_application-logos.scss */
+  169  .atxfloods {
+  170    background-position: 0 -2200px;
+  171  }
+  172  
+  173: /* line 148, ../sass/_application-logos.scss */
+  174  .bike {
+  175    background-position: 0 -2300px;
+  176  }
+  177  
+  178: /* line 152, ../sass/_application-logos.scss */
+  179  .deepdish {
+  180    background-position: 0 -2400px;
+  181  }
+  182  
+  183: /* line 156, ../sass/_application-logos.scss */
+  184  .publicart {
+  185    background-position: 0 -2500px;
+  186  }
+  187  
+  188: /* line 160, ../sass/_application-logos.scss */
+  189  .scmap {
+  190    background-position: 0 -2600px;
+  191  }
+  192  
+  193: /* line 164, ../sass/_application-logos.scss */
+  194  .maconmap {
+  195    background-position: 0 -2700px;
+  196  }
+  197  
+  198: /* line 361, ../sass/_application-logos.scss */
+  199: .adoptadrain, .adoptatwincities, .alexandriaplays, .archivesocial_sq, .bizfriendly_logo, .cityvoice_logo, .civicinsight, .clickthathood, .councilmatic, .dataquestionnaire, .development_fast_pass, .discoverbpsnew, .early_oakland, .fishstocking, .fllegtracker, .flu_shot_finder, .foodtruckslv, .hampton_roads, .honlulubudget, .lakecraft, .littlelibrariesmadison, .localwiki, .lookatasheville, .mappinggentrification, .nwdata, .oakland_answers, .omgtransit, .openbudgetoak, .opencounter, .oppcaster, .pantry_pickup2, .promptly, .recordtrac, .smartprocure_sq, .smcconnect, .streetcred_logo, .streetcredsq, .streetmix, .textizensmall, .textmybus, .tothetrails_logo, .vermontlibrary, .whatsmydistrict, .wheresmyschoolbus, .ohana_api, .ckan, .faf, .jailpop, .nycccs, .streettrees {
+  200    background: url("../img/apps/appssprites.png") no-repeat;
+  201  }
+  202  
+  203: /* line 365, ../sass/_application-logos.scss */
+  204  .adoptadrain {
+  205    background-position: 0 0;
+  ...
+  208  }
+  209  
+  210: /* line 371, ../sass/_application-logos.scss */
+  211  .adoptatwincities {
+  212    background-position: -109px -1px;
+  ...
+  215  }
+  216  
+  217: /* line 377, ../sass/_application-logos.scss */
+  218  .alexandriaplays {
+  219    background-position: -353px 0;
+  ...
+  222  }
+  223  
+  224: /* line 383, ../sass/_application-logos.scss */
+  225  .archivesocial_sq {
+  226    background-position: -113px -424px;
+  ...
+  229  }
+  230  
+  231: /* line 389, ../sass/_application-logos.scss */
+  232: .bizfriendly_logo {
+  233    background-position: -439px -535px;
+  234    width: 100px;
+  ...
+  236  }
+  237  
+  238: /* line 395, ../sass/_application-logos.scss */
+  239: .cityvoice_logo {
+  240    background-position: -220px -531px;
+  241    width: 100px;
+  ...
+  243  }
+  244  
+  245: /* line 401, ../sass/_application-logos.scss */
+  246  .civicinsight {
+  247    background-position: -326px -538px;
+  ...
+  250  }
+  251  
+  252: /* line 407, ../sass/_application-logos.scss */
+  253  .clickthathood {
+  254    background-position: -111px -532px;
+  ...
+  257  }
+  258  
+  259: /* line 413, ../sass/_application-logos.scss */
+  260  .councilmatic {
+  261    background-position: -333px -425px;
+  ...
+  264  }
+  265  
+  266: /* line 419, ../sass/_application-logos.scss */
+  267  .dataquestionnaire {
+  268    background-position: -2px -530px;
+  ...
+  271  }
+  272  
+  273: /* line 425, ../sass/_application-logos.scss */
+  274  .development_fast_pass {
+  275    background-position: -552px -429px;
+  ...
+  278  }
+  279  
+  280: /* line 431, ../sass/_application-logos.scss */
+  281  .discoverbpsnew {
+  282    background-position: -662px -422px;
+  ...
+  285  }
+  286  
+  287: /* line 437, ../sass/_application-logos.scss */
+  288  .early_oakland {
+  289    background-position: -778px -417px;
+  ...
+  292  }
+  293  
+  294: /* line 443, ../sass/_application-logos.scss */
+  295  .fishstocking {
+  296    background-position: -442px -427px;
+  ...
+  299  }
+  300  
+  301: /* line 449, ../sass/_application-logos.scss */
+  302  .fllegtracker {
+  303    background-position: -767px -314px;
+  ...
+  306  }
+  307  
+  308: /* line 455, ../sass/_application-logos.scss */
+  309  .flu_shot_finder {
+  310    background-position: -445px -322px;
+  ...
+  313  }
+  314  
+  315: /* line 461, ../sass/_application-logos.scss */
+  316  .foodtruckslv {
+  317    background-position: -418px -215px;
+  ...
+  320  }
+  321  
+  322: /* line 467, ../sass/_application-logos.scss */
+  323  .hampton_roads {
+  324    background-position: -333px -317px;
+  ...
+  327  }
+  328  
+  329: /* line 473, ../sass/_application-logos.scss */
+  330  .honlulubudget {
+  331    background-position: -554px -322px;
+  ...
+  334  }
+  335  
+  336: /* line 479, ../sass/_application-logos.scss */
+  337  .lakecraft {
+  338    background-position: -662px -319px;
+  ...
+  341  }
+  342  
+  343: /* line 485, ../sass/_application-logos.scss */
+  344  .littlelibrariesmadison {
+  345    background-position: -110px -311px;
+  ...
+  348  }
+  349  
+  350: /* line 491, ../sass/_application-logos.scss */
+  351  .localwiki {
+  352    background-position: -942px -210px;
+  ...
+  355  }
+  356  
+  357: /* line 497, ../sass/_application-logos.scss */
+  358  .lookatasheville {
+  359    background-position: -832px -208px;
+  ...
+  362  }
+  363  
+  364: /* line 503, ../sass/_application-logos.scss */
+  365  .mappinggentrification {
+  366    background-position: -660px -214px;
+  ...
+  369  }
+  370  
+  371: /* line 509, ../sass/_application-logos.scss */
+  372  .nwdata {
+  373    background-position: -527px -213px;
+  ...
+  376  }
+  377  
+  378: /* line 515, ../sass/_application-logos.scss */
+  379  .oakland_answers {
+  380    background-position: -310px -207px;
+  ...
+  383  }
+  384  
+  385: /* line 521, ../sass/_application-logos.scss */
+  386  .omgtransit {
+  387    background-position: -102px -204px;
+  ...
+  390  }
+  391  
+  392: /* line 527, ../sass/_application-logos.scss */
+  393  .openbudgetoak {
+  394    background-position: 0 -204px;
+  ...
+  397  }
+  398  
+  399: /* line 533, ../sass/_application-logos.scss */
+  400  .opencounter {
+  401    background-position: -899px -424px;
+  ...
+  404  }
+  405  
+  406: /* line 539, ../sass/_application-logos.scss */
+  407  .oppcaster {
+  408    background-position: -874px -102px;
+  ...
+  411  }
+  412  
+  413: /* line 545, ../sass/_application-logos.scss */
+  414  .pantry_pickup2 {
+  415    background-position: -748px -103px;
+  ...
+  418  }
+  419  
+  420: /* line 551, ../sass/_application-logos.scss */
+  421  .promptly {
+  422    background-position: -637px -107px;
+  ...
+  425  }
+  426  
+  427: /* line 557, ../sass/_application-logos.scss */
+  428  .recordtrac {
+  429    background-position: -527px -109px;
+  ...
+  432  }
+  433  
+  434: /* line 563, ../sass/_application-logos.scss */
+  435  .smartprocure_sq {
+  436    background-position: -425px -106px;
+  ...
+  439  }
+  440  
+  441: /* line 569, ../sass/_application-logos.scss */
+  442  .smcconnect {
+  443    background-position: -322px -106px;
+  ...
+  446  }
+  447  
+  448: /* line 575, ../sass/_application-logos.scss */
+  449: .streetcred_logo {
+  450    background-position: -218px -106px;
+  451    width: 100px;
+  ...
+  453  }
+  454  
+  455: /* line 581, ../sass/_application-logos.scss */
+  456  .streetcredsq {
+  457    background-position: -107px -100px;
+  ...
+  460  }
+  461  
+  462: /* line 587, ../sass/_application-logos.scss */
+  463  .streetmix {
+  464    background-position: 0 -102px;
+  ...
+  467  }
+  468  
+  469: /* line 593, ../sass/_application-logos.scss */
+  470  .textizensmall {
+  471    background-position: -902px 0;
+  ...
+  474  }
+  475  
+  476: /* line 599, ../sass/_application-logos.scss */
+  477  .textmybus {
+  478    background-position: -792px 0;
+  ...
+  481  }
+  482  
+  483: /* line 605, ../sass/_application-logos.scss */
+  484: .tothetrails_logo {
+  485    background-position: -680px -2px;
+  486    width: 100px;
+  ...
+  488  }
+  489  
+  490: /* line 611, ../sass/_application-logos.scss */
+  491  .vermontlibrary {
+  492    background-position: -578px -3px;
+  ...
+  495  }
+  496  
+  497: /* line 617, ../sass/_application-logos.scss */
+  498  .whatsmydistrict {
+  499    background-position: -470px -4px;
+  ...
+  502  }
+  503  
+  504: /* line 623, ../sass/_application-logos.scss */
+  505  .wheresmyschoolbus {
+  506    background-position: -229px -2px;
+  ...
+  509  }
+  510  
+  511: /* line 629, ../sass/_application-logos.scss */
+  512  .ohana_api {
+  513    background-position: -206px -207px;
+  ...
+  516  }
+  517  
+  518: /* line 635, ../sass/_application-logos.scss */
+  519  .ckan {
+  520    background-position: -2px -426px;
+  ...
+  523  }
+  524  
+  525: /* line 641, ../sass/_application-logos.scss */
+  526  .faf {
+  527    background-position: -872px -317px;
+  ...
+  530  }
+  531  
+  532: /* line 647, ../sass/_application-logos.scss */
+  533  .jailpop {
+  534    background-position: -222px -422px;
+  ...
+  537  }
+  538  
+  539: /* line 653, ../sass/_application-logos.scss */
+  540: .localdatalogo {
+  541:   background-image: url("../img/apps/localdatalogo.png");
+  542  }
+  543  
+  544: /* line 657, ../sass/_application-logos.scss */
+  545  .nycccs {
+  546    background-position: -223px -315px;
+  ...
+  549  }
+  550  
+  551: /* line 663, ../sass/_application-logos.scss */
+  552  .streettrees {
+  553    background-position: -552px -538px;
+  ...
+ 2101  /*****************************************************************************/
+ 2102  /*
+ 2103: /* Startup Logos
+ 2104  /*
+ 2105  /*****************************************************************************/
+ 2106: /* line 9, ../sass/_startup-logos.scss */
+ 2107  .startupspop {
+ 2108    background: none;
+ ....
+ 2114  }
+ 2115  
+ 2116: /* line 18, ../sass/_startup-logos.scss */
+ 2117  a.startupspop:hover {
+ 2118    border: none;
+ 2119  }
+ 2120  
+ 2121: /* line 23, ../sass/_startup-logos.scss */
+ 2122  .startupspop.startup_CI {
+ 2123    background-image: url("../img/apps/inverse_civicinsight.png");
+ 2124  }
+ 2125  
+ 2126: /* line 27, ../sass/_startup-logos.scss */
+ 2127  .startupspop.startup_LD {
+ 2128    background-image: url("../img/apps/inverse_localdata.png");
+ 2129  }
+ 2130  
+ 2131: /* line 31, ../sass/_startup-logos.scss */
+ 2132  .startupspop.startup_TZ {
+ 2133    background-image: url("../img/apps/inverse_textizen.png");
+ 2134  }
+ 2135  
+ 2136: /* line 35, ../sass/_startup-logos.scss */
+ 2137  .startupspop.startup_AS {
+ 2138    background-image: url("../img/apps/inverse_archivesocial.png");
+ 2139  }
+ 2140  
+ 2141: /* line 39, ../sass/_startup-logos.scss */
+ 2142  .startupspop.startup_FAF {
+ 2143    background-image: url("../img/apps/inverse_FAF.png");
+ 2144  }
+ 2145  
+ 2146: /* line 43, ../sass/_startup-logos.scss */
+ 2147  .startupspop.startup_OC {
+ 2148    background-image: url("../img/apps/inverse_opencounter.png");
+ 2149  }
+ 2150  
+ 2151: /* line 47, ../sass/_startup-logos.scss */
+ 2152  .startupspop.startup_SP {
+ 2153    background-image: url("../img/apps/inverse_smartprocure.png");
+ 2154  }
+ 2155  
+ 2156: /* line 51, ../sass/_startup-logos.scss */
+ 2157  .startupspop.startup_SC {
+ 2158    background-image: url("../img/apps/inverse_streetcred.png");
+ ....
+ 2547  
+ 2548  /* line 37, ../sass/base.scss */
+ 2549: .logo {
+ 2550    display: block;
+ 2551    margin-left: auto;
+ ....
+ 2554  
+ 2555  /* line 43, ../sass/base.scss */
+ 2556: .logo img {
+ 2557    max-width: 85px;
+ 2558  }
+
+/Users/julia/Documents/Code/Report/js/main.js:
+  462    }, 1000);
+  463    var usTopology;
+  464:   //shows nav when user hovers over the logo
+  465    var height = $(window).height(),
+  466    width = $(window).width();
+
+/Users/julia/Documents/Code/Report/sass/_application-logos.scss:
+    1  /*****************************************************************************/
+    2  /*
+    3: /* Logos
+    4  /*
+    5  /*****************************************************************************/
+    6  
+    7  .appspop {
+    8:   background-image: url('../img/apps_logos.png');
+    9    background-size: 100px;
+   10    float: left;
+   ..
+   46  .scmap,
+   47  .maconmap {
+   48:   background-image: url('../img/apps_logos.png');
+   49    background-size: 100px;
+   50    float: left;
+   ..
+  184  
+  185  // .appspop.bizfriendly {
+  186: //   background-image: url('../img/apps/bizfriendly_logo.jpg');
+  187  // }
+  188  
+  ...
+  192  
+  193  // .appspop.city_voice {
+  194: //   background-image: url('../img/apps/cityvoice_logo.jpg');
+  195  // }
+  196  
+  ...
+  231  // }
+  232  
+  233: // .appspop.faf_logo{
+  234  //   background-image: url('../img/apps/faf.jpg');
+  235  // }
+  ...
+  263  // }
+  264  
+  265: // .appspop.localdata-logo {
+  266: //   background-image: url('../img/apps/localdata-Logo.png');
+  267  // }
+  268  
+  ...
+  348  
+  349  // .appspop.tothetrails {
+  350: //   background-image: url('../img/apps/tothetrails_logo.gif');
+  351  // }
+  352  
+  ...
+  359  // }
+  360  
+  361: .adoptadrain, .adoptatwincities, .alexandriaplays, .archivesocial_sq, .bizfriendly_logo, .cityvoice_logo, .civicinsight, .clickthathood, .councilmatic, .dataquestionnaire, .development_fast_pass, .discoverbpsnew, .early_oakland, .fishstocking, .fllegtracker, .flu_shot_finder, .foodtruckslv, .hampton_roads, .honlulubudget, .lakecraft, .littlelibrariesmadison, .localwiki, .lookatasheville, .mappinggentrification, .nwdata, .oakland_answers, .omgtransit, .openbudgetoak, .opencounter, .oppcaster, .pantry_pickup2, .promptly, .recordtrac, .smartprocure_sq, .smcconnect, .streetcred_logo, .streetcredsq, .streetmix, .textizensmall, .textmybus, .tothetrails_logo, .vermontlibrary, .whatsmydistrict, .wheresmyschoolbus, .ohana_api, .ckan, .faf, .jailpop, .nycccs, .streettrees{
+  362    background: url('../img/apps/appssprites.png') no-repeat;
+  363  }
+  ...
+  387  }
+  388  
+  389: .bizfriendly_logo{
+  390    background-position: -439px -535px ;
+  391    width: 100px;
+  ...
+  393  }
+  394  
+  395: .cityvoice_logo{
+  396    background-position: -220px -531px ;
+  397    width: 100px;
+  ...
+  573  }
+  574  
+  575: .streetcred_logo{
+  576    background-position: -218px -106px ;
+  577    width: 100px;
+  ...
+  603  }
+  604  
+  605: .tothetrails_logo{
+  606    background-position: -680px -2px ;
+  607    width: 100px;
+  ...
+  651  }
+  652  
+  653: .localdatalogo{
+  654:   background-image: url('../img/apps/localdatalogo.png');
+  655  }
+  656  
+
+/Users/julia/Documents/Code/Report/sass/_startup-logos.scss:
+    1  /*****************************************************************************/
+    2  /*
+    3: /* Startup Logos
+    4  /*
+    5  /*****************************************************************************/
+
+/Users/julia/Documents/Code/Report/sass/base.scss:
+    1  @import "compass";
+    2: @import "application-logos";
+    3  @import "backgrounds";
+    4  @import "carousel";
+    .
+    9  @import "map";
+   10  @import "press";
+   11: @import "startup-logos";
+   12  @import "colors";
+   13  @import "typography";
+   ..
+   35  }
+   36  
+   37: .logo {
+   38    display: block;
+   39    margin-left: auto;
+   ..
+   41  }
+   42  
+   43: .logo img {
+   44    max-width: 85px;
+   45  }
+
+281 matches across 19 files

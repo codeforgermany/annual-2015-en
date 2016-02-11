@@ -1,0 +1,91 @@
+/*******************************************/
+
+/* Press */
+
+.press {
+  text-align: left;
+}
+
+.press .heise,
+.press .t3n,
+.press .zdf,
+.press .taz,
+.press .fritz,
+.press .ted,
+.press .ard,
+.press .golem,
+.press .rbb {
+  height: 40px;
+  margin-bottom: 30px;
+}
+
+
+/* .7895 */
+
+
+.press .heise {
+  background-image:url('../img/heise.svg');
+  height: 80px;
+  width: 150px;
+}
+
+.press .t3n {
+  background-image:url('../img/t3n.svg');
+  width: 150px;
+  height: 80px;
+}
+
+.press .zdf {
+  background-image:url('../img/zdf.svg');
+  width: 150px;
+  height: 80px;
+}
+
+.press .taz {
+  background-image:url('../img/taz.svg');
+  height: 67px;
+  width: 250px;
+}
+
+.press .fritz {
+  background-image:url('../img/fritz.svg');
+  width: 180px;
+  height: 120px;
+}
+
+.press .ted {
+  background-image:url('../img/ted.svg');
+  height: 80px;
+  width: 180px;
+}
+
+.press .ard {
+  background-image:url('../img/ard.svg');
+  height: 80px;
+  width: 180px;
+}
+
+.press .golem {
+  background-image:url('../img/golem.svg');
+  height: 68px;
+  width: 309px;
+}
+
+.press .rbb {
+  background-image:url('../img/rbb.svg');
+  height: 280px;
+  width: 815px;
+}
+
+.getinvolved .press div  {
+  margin-right: 20px;
+  float: left;
+}
+
+.press div {
+  margin: 20px 0;
+}
+
+.press .keynotes {
+  margin-top: 50px;
+}

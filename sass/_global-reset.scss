@@ -1,0 +1,62 @@
+/* Global Reset */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background:#fff;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+  webkit-font-smoothing:subpixel-antialiased;
+  text-align: left;
+  font-weight: 600;
+}
+
+h1 {
+  font-family: 'League Spartan', 'Apercu Mono Pro Regular', 'Andale Mono', sans-serif;
+  margin: .25em .25em 1em 0em;
+}
+
+p {
+  margin: 1em 0;
+  line-height: 23px;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+a:hover {
+  color: #fff;
+  //border-bottom: #fff solid 1px;
+  text-decoration: underline;
+}
+
+table {
+  font-size: inherit;
+  font: 100%;
+}
+
+.page {
+  clear: both;
+}
+.clear{ 
+  clear:both;
+}
+
+li {
+  list-style: none;
+}
+
+.row-fluid {
+    max-width: 960px;
+}

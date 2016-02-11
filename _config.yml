@@ -1,0 +1,5 @@
+markdown: rdiscount
+highlighter: rouge
+paginate: 100
+permalink: pretty
+gems: [jekyll-paginate]
